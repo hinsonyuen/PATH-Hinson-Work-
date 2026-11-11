@@ -4,7 +4,7 @@ Lines starting H are port/section headings found on the page; K are keyword hits
 import re, html, sys
 f = sys.argv[1]; after = int(sys.argv[2]) if len(sys.argv) > 2 else 200
 L = open('/mnt/project-files/' + f, encoding='utf-8', errors='replace').read().split('\n')
-kw = re.compile(r"rifle|musket|carbine|re?volv|pisto?l|pis-|cannon|ordnance|cartr|ammun|munition|percus|gun ?powder|dynam|explos|detonat|torpedo|sword|bayonet|dagger|military|sal.{0,2}p.?e?tre|\bnitre|nitrate|chlorate|s.?u.?lph|brim.?.?tone|\bguns?\b|\barms\b|fire-? ?arms|bullet|pistol barrel|\bfuse", re.I)
+kw = re.compile(r"rifle|musket|carbine|re?volv|pisto?l|pis-|cannon|ordnance|cartr|ammun|munition|percus|gun ?powder|dynam|explos|detonat|torpedo|sword|bayonet|dagger|military|sal.{0,2}p.?e?tre|\bnitre|nitrate|chlorate|s.?u.?lph|brim.?.?tone|\bguns?\b|\barms\b|fire-? ?arms|bullet|pistol barrel|\bfuse|duty.?free|government use|arsenal", re.I)
 skip = re.compile(r"gunpowder\W+(total|green|dust|tea)|(hyson|imperial|twankay)\W+gun ?powder|sulphate|sulphuric", re.I)
 hdr = re.compile(r"(?:\d{1,2} ?[.\-—]+ ?)?\b(?:NEWCHWANG|TIENTSIN|CHEFOO|CHUNGKING|ICHANG|SHASI|YOCHOW|HANKOW|KIUKIANG|WUHU|NANKING|CHINKIANG|SHANGHAI|SOOCHOW|HANGCHOW|NINGPO|WENCHOW|SANTUAO|FOOCHOW|TAMSUI|TAKOW|TAINAN|AMOY|SWATOW|CANTON|KOWLOON|LAPPA|KONGMOON|SAMSHUI|WUCHOW|KIUNGCHOW|PAKHOI|LUNGCHOW|MENGTSZ|SZEMAO|TENGYUEH|KIAOCHOW|ANTUNG|DAIREN|HARBIN|CHANGSHA|NANNING)\b|(?:III?|IV|V|VI)\. ?-? ?(?:IMPORTS|EXPORTS|RE-EXPORTS)|FINES AND CONFISCATIONS")
 for n, s in enumerate(L, 1):
