@@ -1,0 +1,11 @@
+{
+ "issue": 93, "year": 1892, "quarter": "Q1",
+ "file": "Customs_Gazette_1892_Q1_No093.txt",
+ "processed_at": "2026-11-11 09:22 UTC", "processed_by": "Task A",
+ "imports": [],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 400, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 105, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "Columns 1889-1892 read 2,200 / 910 / ... / 400. The 1892 figure of 400 matches the comparison column in No. 101 (1894 Q1), which confirms that issue's reading of 780 for 1894."}
+ ],
+ "issue_notes": ["No. 93: the whole Kowloon and Lappa appendix (file lines 186-200) is unreadable in the OCR, so the usual Kowloon saltpetre and sulphur import rows could not be entered; take them from the scan.", "No. 93: a sulphur row in a Corean port import table (10 piculs) is not entered. No Fines and Confiscations tables in this OCR."]
+}
