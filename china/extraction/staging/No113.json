@@ -1,0 +1,13 @@
+{
+ "issue": 113, "year": 1897, "quarter": "Q1",
+ "file": "Customs_Gazette_1897_Q1_No113.txt",
+ "processed_at": "2026-11-11 10:52 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 11746, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 184, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column (11,493 + 253). Comparison columns: 1895 = 8,966; 1896 = 10,076."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 3777, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 184, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column (3,388 + 389); item name garbled ('S hur'). Comparison columns: 1895 = 1,343; 1896 = 2,819."}
+ ],
+ "exports": [],
+ "issue_notes": ["No. 113: duty-free rows this quarter are telegraph poles and rice, no arms. No Fines and Confiscations tables in this OCR."]
+}
