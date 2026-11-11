@@ -1,0 +1,18 @@
+{
+ "issue": 98, "year": 1893, "quarter": "Q2",
+ "file": "Customs_Gazette_1893_Q2_No098.txt",
+ "processed_at": "2026-11-11 14:26 UTC", "processed_by": "Task A",
+ "imports": [
+  {"type": "Rifle slings", "raw_material": false, "partner": null, "port": "Shanghai", "count": 1000, "unit": "pieces", "value_hktls": null, "entry": "Bonded withdrawal",
+   "source": "file line 87, Shanghai Special Tables, Bonded Warehouses, Sundries", "note": "The 1,000 pieces that arrived in bond in 1892 Q3 (No. 95) were withdrawn for local consumption this quarter; none remain in bond. Same goods as the 1892 Q3 row, so do not add the two."},
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 7736, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "Customs Gazette No. 102 (1894 Q2), file line 202, Kowloon III. Imports, 1893 comparison column", "note": "Taken from the comparison column of No. 102: the Kowloon page is not legible in this issue's own OCR."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 1617, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "Customs Gazette No. 102 (1894 Q2), file line 202, Kowloon III. Imports, 1893 comparison column", "note": "Taken from the comparison column of No. 102: the Kowloon page is not legible in this issue's own OCR."}
+ ],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 2500, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 111, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "Columns 1890-1893 read 1,961 / 2,470 / 670 / 2,500; matches the comparison columns in Nos. 94, 102 and 106."}
+ ],
+ "issue_notes": ["No. 98: the Kowloon import page (file line 203) is unreadable in this issue's OCR; its saltpetre and sulphur rows are filled from the 1893 comparison column of No. 102. No Fines and Confiscations tables in this OCR."]
+}

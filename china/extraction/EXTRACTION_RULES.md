@@ -31,7 +31,7 @@ Source: Chinese Maritime Customs, *Customs Gazette* (Statistical Series No. 2), 
   (record them only if the table explicitly classes them as explosives), and OCR words that merely look similar.
 - **Tables**: imports tables -> `imports`; exports tables -> `exports`; re-exports tables -> the matching list
   with `"entry": "Re-export"`. Arms, ammunition, explosives, saltpetre or sulphur listed in **Fines and
-  Confiscations** -> `"entry": "Seizure"` (imports list unless the offence was attempting to export). Trade-table rows use `"entry": "Trade"`. Stock held in the Shanghai bonded warehouse tables that did not arrive or leave in the quarter -> `"entry": "Bonded stock"` (arrivals in bond during the quarter are imports, "Trade").
+  Confiscations** -> `"entry": "Seizure"` (imports list unless the offence was attempting to export). Trade-table rows use `"entry": "Trade"`. Stock held in the Shanghai bonded warehouse tables that did not arrive or leave in the quarter -> `"entry": "Bonded stock"` (arrivals in bond during the quarter are imports, "Trade"; goods withdrawn from bond for local consumption -> `"entry": "Bonded withdrawal"`, noting they are the same goods as the earlier arrival). Bonded table columns are: in bond first day / arrivals / total / withdrawn for local consumption / for reshipment / total / remaining / remaining same day previous year.
 - **Current year only**: tables print the same quarter for the previous 3 years as comparison columns.
   Take only the column for the issue's own year. Never sum or copy the earlier-year columns.
 - **Port**: the Customs port whose return the entry appears in (e.g. "Shanghai", "Tientsin", "Canton"),
