@@ -1,0 +1,16 @@
+{
+ "issue": 94, "year": 1892, "quarter": "Q2",
+ "file": "Customs_Gazette_1892_Q2_No094.txt",
+ "processed_at": "2026-11-11 10:20 UTC", "processed_by": "Task A",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 9536, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 202, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1890 = 10,594; 1891 = 5,948 (matches No. 90)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 909, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 202, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1890 = 2,083; 1891 = 689 (matches No. 90)."}
+ ],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 670, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 111, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "Columns 1889-1892 read 740 / 1,961 / 2,470 / 670. The 1891 Q2 figure (2,470) was unreadable in No. 90 and can be taken from here."}
+ ],
+ "issue_notes": ["No. 94: clean read. Sulphur rows in the Corean port tables (Fusan 10 piculs, Yuensan 8 piculs) are not entered. No Fines and Confiscations tables in this OCR."]
+}
