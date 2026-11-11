@@ -1,0 +1,16 @@
+{
+ "issue": 103, "year": 1894, "quarter": "Q3",
+ "file": "Customs_Gazette_1894_Q3_No103.txt",
+ "processed_at": "2026-11-11 04:52 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 2311, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "OCR row reads '1,376 1,459 2311' (name garbled as 'Sup ur'): taken as 1892, 1893 and 1894; station and total columns are missing from the OCR. Check against the scan."}
+ ],
+ "exports": [
+  {"type": "Munitions of war", "raw_material": false, "partner": null, "port": "Tamsui", "count": null, "unit": "", "value_hktls": 45818, "entry": "Re-export",
+   "source": "file line 113, Tamsui V. Re-exports to Foreign Countries and Chinese Ports", "note": "Value only. OCR reads '... 1,372 ... 45,818' under the 1891-1894 columns; 45,818 taken as 1894."},
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Tamsui", "count": 502, "unit": "piculs", "value_hktls": null, "entry": "Re-export",
+   "source": "file line 113, Tamsui V. Re-exports to Foreign Countries and Chinese Ports", "note": "Only an 1894 figure is printed."}
+ ],
+ "issue_notes": ["No. 103: no Fines and Confiscations tables in this OCR, so no seizure rows.", "No. 103: the Kowloon import page is badly garbled; the Saltpetre row that normally sits between Salt and Sapanwood is missing from the OCR and must be taken from the scan."]
+}
