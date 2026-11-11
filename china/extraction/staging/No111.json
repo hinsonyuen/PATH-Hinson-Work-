@@ -1,0 +1,13 @@
+{
+ "issue": 111, "year": 1896, "quarter": "Q3",
+ "file": "Customs_Gazette_1896_Q3_No111.txt",
+ "processed_at": "2026-11-11 08:52 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 9670, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 178, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1894 = 12,410; 1895 = 13,249 (not entered; note that the 1894 Q3 saltpetre row was missing from No. 103's OCR, so 12,410 is the figure to check there)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 1670, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 178, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1894 = 2,311 (confirms the 1894 Q3 reading in No. 103); 1895 = 1,335."}
+ ],
+ "exports": [],
+ "issue_notes": ["No. 111: duty-free rows at Hankow, Wuhu, Chinkiang and Shanghai this quarter are rice, wheat and machinery (military and famine relief), no arms. No Fines and Confiscations tables in this OCR. Tamsui no longer reports (Formosa ceded to Japan in 1895)."]
+}
