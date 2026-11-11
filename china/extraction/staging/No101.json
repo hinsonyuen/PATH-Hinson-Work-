@@ -1,0 +1,18 @@
+{
+  "issue": 101, "year": 1894, "quarter": "Q1",
+  "file": "Customs_Gazette_1894_Q1_No101.txt",
+  "processed_at": "2026-11-11 03:10 UTC", "processed_by": "Task B",
+  "imports": [
+    {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 1050, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+     "source": "file line 196, Kowloon III. Imports (inwards by junk from Hongkong side), Foreign Sundries", "note": "Total of the station columns. Comparison columns: 1892 = 1,568; 1893 = 785 (not entered)."},
+    {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": null, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+     "source": "file line 196, Kowloon III. Imports, Foreign Sundries", "note": "Row is present but the OCR figures are garbled ('8 169 1 45 ... 4'); quantity must be checked against the scan."},
+    {"type": "Rifle slings", "raw_material": false, "partner": null, "port": "Shanghai", "count": 5000, "unit": "pieces", "value_hktls": null, "entry": "Bonded stock",
+     "source": "file line 84, Shanghai Special Tables 5. Bonded Warehouses, Sundries", "note": "Not a quarter's import: 5,000 pieces shown only in the 'remaining in bond' column, no arrivals or withdrawals this quarter. Column reading uncertain (OCR)."}
+  ],
+  "exports": [
+    {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 780, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+     "source": "file line 108, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "Row prints three figures (400, 515, 780) under four year columns; read as 1892, 1893, 1894 with 1891 blank. Check against the scan."}
+  ],
+  "issue_notes": ["No. 101 has Part I (quarterly returns of trade) only in this OCR; no Fines and Confiscations tables were found, so there are no seizure rows. Arms proper do not appear in the 'principal articles' tables; only sulphur and saltpetre do."]
+}
