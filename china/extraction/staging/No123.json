@@ -1,0 +1,38 @@
+{
+ "issue": 123,
+ "year": 1899,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1899_Q3_No123.txt",
+ "processed_at": "2026-11-11T20:46:18Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12210,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 238, Kowloon III. Imports (Foreign Sundries), 1899 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1897 = 10,955; 1898 = 13,667 (both match Nos. 115 and 119)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1876,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 238, Kowloon III. Imports (Foreign Sundries), 1899 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1897 = 2,050; 1898 = 1,787 (both match Nos. 115 and 119)."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 123 (1899 Q3): only Kowloon saltpetre and sulphur found. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only."
+ ]
+}
