@@ -1,0 +1,24 @@
+{
+ "issue": 105, "year": 1895, "quarter": "Q1",
+ "file": "Customs_Gazette_1895_Q1_No105.txt",
+ "processed_at": "2026-11-11 06:58 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Cartridges, duty free", "raw_material": false, "partner": null, "port": "Chinkiang", "count": 5193600, "unit": "pieces", "value_hktls": null, "entry": "Trade",
+   "source": "file line 66, Chinkiang III. Imports from Foreign Countries and Chinese Ports, Foreign Sundries", "note": "Duty-free (government/military) import during the Sino-Japanese War; only an 1895 figure is printed. OCR reads '5)193,6oo'."},
+  {"type": "Rifles, duty free", "raw_material": false, "partner": null, "port": "Chinkiang", "count": 7732, "unit": "pieces", "value_hktls": null, "entry": "Trade",
+   "source": "file line 66, Chinkiang III. Imports, Foreign Sundries", "note": "Item name garbled ('Rfe,D t Free'); OCR figure reads '.7. ,732', taken as 7,732. Check against the scan."},
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 8044, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 180, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "PARTIAL: 8,044 is the Capsuimoon station column only. Other station columns read '922' and '8?6' and the total column is lost in the OCR (total is roughly 9,800). Take the total from the scan."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 1343, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 180, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "PARTIAL: 1,343 is the Capsuimoon station column only; the other station columns and the total are garbled. Comparison columns: 1893 = 785; 1894 = 1,050."}
+ ],
+ "exports": [
+  {"type": "Saltpetre, duty free", "raw_material": true, "partner": null, "port": "Chinkiang", "count": 1000, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 67, Chinkiang IV. Exports to Foreign Countries and Chinese Ports", "note": "Only an 1895 figure is printed."},
+  {"type": "Cartridges, duty free", "raw_material": false, "partner": null, "port": "Chinkiang", "count": 556000, "unit": "pieces", "value_hktls": null, "entry": "Re-export",
+   "source": "file line 67, Chinkiang V. Re-exports", "note": "Only an 1895 figure is printed."},
+  {"type": "Munitions of war", "raw_material": false, "partner": null, "port": "Tamsui", "count": null, "unit": "", "value_hktls": 62547, "entry": "Re-export",
+   "source": "file line 110, Tamsui V. Re-exports to Foreign Countries and Chinese Ports", "note": "Value only. OCR reads '... 4o3 62,547' under 1892-1895; 62,547 taken as 1895 and 403 as 1894."}
+ ],
+ "issue_notes": ["No. 105: wartime duty-free government imports appear at Chinkiang. Besides cartridges and rifles the same table lists duty-free saddlery (value about Hk.Tls 14,2xx), leather belts (value 9,245), uniforms (value about 6,94x), lead in pigs (300 piculs), machinery and telegraph materials; these are not entered as arms rows.", "No. 105: no Fines and Confiscations tables in this OCR, so no seizure rows. Kowloon figures are partial because the total column is garbled."]
+}
