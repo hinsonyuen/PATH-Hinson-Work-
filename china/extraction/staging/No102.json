@@ -1,0 +1,18 @@
+{
+ "issue": 102, "year": 1894, "quarter": "Q2",
+ "file": "Customs_Gazette_1894_Q2_No102.txt",
+ "processed_at": "2026-11-11 03:55 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 9436, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 202, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total of station columns. Comparison columns: 1892 = 9,536; 1893 = 7,736 (not entered)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 1187, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 202, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total of station columns. Comparison columns: 1892 = 909; 1893 = 1,617 (not entered)."}
+ ],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 470, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 114, Tamsui IV. Exports (including re-exports) to Foreign Countries and Chinese Ports", "note": "OCR row reads '470 670 . 2,500 470'; last figure taken as 1894. Check against the scan."},
+  {"type": "Munitions of war", "raw_material": false, "partner": null, "port": "Tamsui", "count": null, "unit": "", "value_hktls": 51358, "entry": "Re-export",
+   "source": "file line 115, Tamsui V. Re-exports to Foreign Countries and Chinese Ports, Sundries", "note": "Value only. OCR reads '.... 645 51358' under the 1891-1894 columns: taken as 1893 = 645, 1894 = 51,358. The 1894 figure could also be 5,358 or 1,358; check against the scan."}
+ ],
+ "issue_notes": ["No. 102: no Fines and Confiscations tables in this OCR, so no seizure rows. Finished arms appear only as 'Munitions of War' re-exported from Tamsui (value only)."]
+}

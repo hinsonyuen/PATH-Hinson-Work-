@@ -8,7 +8,8 @@ Source: Chinese Maritime Customs, *Customs Gazette* (Statistical Series No. 2), 
 1. Find the issue to process: the **oldest** file in your assigned year range that has no
    `staging/No<NNN>.json` yet (NNN = the 3-digit issue number in the filename).
    If none is left, your range is finished (see "When the range is done").
-2. Locate arms entries with grep (case-insensitive) and read only the matching pages (`sed -n '<line>p' file | fold -w 400`).
+2. Start with `python3 find_hits.py <file>` (prints keyword hits with page line, offset, headings and context), then
+   locate anything it missed with grep (case-insensitive) and read only the matching pages (`sed -n '<line>p' file | fold -w 400`).
    Keywords, allowing for OCR damage: arms, fire-arms/firearms, rifle, musket, gun (but not "gunny"), revolver, pistol,
    cannon, ordnance, cartridge, ammunition, munition, percussion cap, shot, shell, gunpowder/powder, dynamite,
    explosive, detonator, fuse, torpedo, sword, bayonet, military stores, saltpetre/saltpeter/nitre, sulphur/sulfur,
