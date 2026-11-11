@@ -1,0 +1,15 @@
+{
+ "issue": 112, "year": 1896, "quarter": "Q4",
+ "file": "Customs_Gazette_1896_Q4_No112.txt",
+ "processed_at": "2026-11-11 09:58 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Field-guns, duty free", "raw_material": false, "partner": null, "port": "Chinkiang", "count": null, "unit": "", "value_hktls": 80000, "entry": "Trade",
+   "source": "file line 69, Chinkiang III. Imports from Foreign Countries and Chinese Ports, Foreign Sundries", "note": "Value only (Hk.Tls 80,000), duty-free government import. The OCR shows two blank year columns before the figure, so it is taken as 1896; confirm on the scan that it is not the 1895 column."},
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 13642, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 187, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column (12,565 + 1,077). Comparison columns: 1894 = 16,749; 1895 = 14,353 (not entered; the 1894 Q4 figure was unreadable in No. 104)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 2089, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 187, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total read as '20 9', reconstructed as 2,089 from the station columns (1,762 + 327). Comparison columns: 1894 = 2,214; 1895 = 4,186."}
+ ],
+ "exports": [],
+ "issue_notes": ["No. 112: other duty-free rows this quarter (Chinkiang machinery; rice at several ports) are not arms. No Fines and Confiscations tables in this OCR."]
+}
