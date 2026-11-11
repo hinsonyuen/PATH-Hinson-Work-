@@ -1,0 +1,18 @@
+{
+ "issue": 97, "year": 1893, "quarter": "Q1",
+ "file": "Customs_Gazette_1893_Q1_No097.txt",
+ "processed_at": "2026-11-11 13:26 UTC", "processed_by": "Task A",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 10081, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 198, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1891 = 10,128; 1892 = 9,189."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 785, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 198, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1891 = 1,197; 1892 = 1,568."},
+  {"type": "Rifle slings", "raw_material": false, "partner": null, "port": "Shanghai", "count": 1000, "unit": "pieces", "value_hktls": null, "entry": "Bonded stock",
+   "source": "file line 83, Shanghai Special Tables, Bonded Warehouses, Sundries", "note": "Not a new import: 1,000 pieces still in bond from 1892 Q3; no arrivals or withdrawals this quarter."}
+ ],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 515, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 107, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "Columns 1890-1893 read 910 / ... / 400 / 515; matches the comparison columns in Nos. 93 and 101."}
+ ],
+ "issue_notes": ["No. 97: clean read. No Fines and Confiscations tables in this OCR."]
+}

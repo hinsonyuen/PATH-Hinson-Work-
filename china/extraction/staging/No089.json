@@ -1,8 +1,40 @@
 {
- "issue": 89, "year": 1891, "quarter": "Q1",
+ "issue": 89,
+ "year": 1891,
+ "quarter": "Q1",
  "file": "Customs_Gazette_1891_Q1_No089.txt",
- "processed_at": "2026-11-11 06:26 UTC", "processed_by": "Task A",
- "imports": [],
+ "processed_at": "2026-11-11 06:26 UTC",
+ "processed_by": "Task A",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 10128,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs Gazette No. 97 (1893 Q1), file line 198, Kowloon III. Imports, comparison column",
+   "note": "Taken from the comparison column of No. 97: the Kowloon page was not legible in this issue's own OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1197,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs Gazette No. 97 (1893 Q1), file line 198, Kowloon III. Imports, comparison column",
+   "note": "Taken from the comparison column of No. 97: the Kowloon page was not legible in this issue's own OCR."
+  }
+ ],
  "exports": [],
- "issue_notes": ["No. 89: no arms, saltpetre or sulphur rows could be read. The pages where they normally appear (Tamsui exports, file lines 105-106; Kowloon imports, file lines 215-220) are unreadable in the OCR: item names are lost, only stray figures remain. This is an OCR gap, not evidence of no trade; these pages must be read from the scan.", "No. 89: no Fines and Confiscations tables in this OCR, so no seizure rows."]
+ "issue_notes": [
+  "No. 89: no arms, saltpetre or sulphur rows could be read. The pages where they normally appear (Tamsui exports, file lines 105-106; Kowloon imports, file lines 215-220) are unreadable in the OCR: item names are lost, only stray figures remain. This is an OCR gap, not evidence of no trade; these pages must be read from the scan.",
+  "No. 89: no Fines and Confiscations tables in this OCR, so no seizure rows.",
+  "No. 89: Kowloon saltpetre and sulphur rows were later filled from the 1891 comparison column of No. 97 (1893 Q1)."
+ ]
 }
