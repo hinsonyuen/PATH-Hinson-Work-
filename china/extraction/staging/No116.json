@@ -1,0 +1,13 @@
+{
+ "issue": 116, "year": 1897, "quarter": "Q4",
+ "file": "Customs_Gazette_1897_Q4_No116.txt",
+ "processed_at": "2026-11-11 13:52 UTC", "processed_by": "Task B",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 15909, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 210, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column (15,000 + 909). Comparison columns: 1895 = 14,353; 1896 = 13,642 (matches No. 112)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 3072, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 210, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column (2,780 + 292). Comparison columns: 1895 = 4,186; 1896 = 2,089 (matches No. 112)."}
+ ],
+ "exports": [],
+ "issue_notes": ["No. 116: duty-free rows this quarter are rice only, no arms. No Fines and Confiscations tables in this OCR."]
+}
