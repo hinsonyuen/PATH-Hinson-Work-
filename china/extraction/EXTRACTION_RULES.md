@@ -17,6 +17,10 @@ Source: Chinese Maritime Customs, *Customs Gazette* (Statistical Series No. 2), 
    (it rebuilds BOTH workbooks from all staging files, so never edit the .xlsx files by hand).
 4. Append one line to `progress.log`: date/time, issue, rows imports/exports, anything doubtful.
 
+5. Push to GitHub: `bash /mnt/project-files/china-gazette/sync_repo.sh "China: Customs Gazette No. <NNN> (<YEAR> <Q>), <n> import rows, <m> export rows"`.
+   It copies the workbooks, staging files and log into the repo hinsonyuen/PATH-Hinson-Work- and pushes to main.
+   If it prints PUSH FAILED, note that in progress.log and post one short message in the thread.
+
 ## What to record
 - **Manufactured** (Raw material = false): firearms of any kind and their parts, cannon/ordnance, swords/bayonets,
   cartridges/ammunition/shot/shells, percussion caps, gunpowder, dynamite and other explosives, detonators, fuses, torpedoes, military stores.
