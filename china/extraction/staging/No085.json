@@ -1,0 +1,13 @@
+{
+ "issue": 85, "year": 1890, "quarter": "Q1",
+ "file": "Customs_Gazette_1890_Q1_No085.txt",
+ "processed_at": "2026-11-11 04:22 UTC", "processed_by": "Task A",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 8524, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 210, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total of station columns (8,360 + 164). Comparison columns: 1888 = 9,426; 1889 = 3,539 (not entered)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 3781, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 210, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total of station columns (3,721 + 60). No figures printed for 1888 or 1889."}
+ ],
+ "exports": [],
+ "issue_notes": ["No. 85: no Fines and Confiscations tables in this OCR, so no seizure rows. A sulphur row also appears in the Fusan (Corea) import table in the appendix; it is a Corean port, not Chinese, and its figures are unreadable, so it is not entered.", "No. 85: several port pages (around file line 195 and 209) are badly garbled in the OCR, so arms-related rows on those pages could have been missed."]
+}
