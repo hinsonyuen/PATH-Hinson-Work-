@@ -1,13 +1,39 @@
 {
- "issue": 115, "year": 1897, "quarter": "Q3",
+ "issue": 115,
+ "year": 1897,
+ "quarter": "Q3",
  "file": "Customs_Gazette_1897_Q3_No115.txt",
- "processed_at": "2026-11-11 12:52 UTC", "processed_by": "Task B",
+ "processed_at": "2026-11-11 12:52 UTC",
+ "processed_by": "Task B",
  "imports": [
-  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 10955, "unit": "piculs", "value_hktls": null, "entry": "Trade",
-   "source": "file line 208, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "10,955 is the first 1897 station column; the total column is garbled ('*.o 55') and is consistent with 10,955. Comparison columns: 1895 = 13,249; 1896 = 9,670 (matches No. 111)."},
-  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 2050, "unit": "piculs", "value_hktls": null, "entry": "Trade",
-   "source": "file line 208, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1895 = 1,335; 1896 = 1,670 (matches No. 111)."}
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 10955,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 208, Kowloon III. Imports (inwards by junk), Foreign Sundries",
+   "note": "10,955 is the first 1897 station column; the total column is garbled ('*.o 55') and is consistent with 10,955. Comparison columns: 1895 = 13,249; 1896 = 9,670 (matches No. 111). Confirmed: the 1897 comparison column of No. 119 reads 10,955."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2050,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 208, Kowloon III. Imports (inwards by junk), Foreign Sundries",
+   "note": "Total column. Comparison columns: 1895 = 1,335; 1896 = 1,670 (matches No. 111)."
+  }
  ],
  "exports": [],
- "issue_notes": ["No. 115: the Lappa import table (file line 216) has a 'Munitions of War, Value Hk.Tls' row with a single figure, 89. Because an 1897 entry would print a station figure and a total, the lone figure most likely belongs to the 1895 or 1896 comparison column, so no 1897 row is entered. Check against the scan.", "No. 115: duty-free rows this quarter are rice (military and famine relief), no arms. No Fines and Confiscations tables in this OCR."]
+ "issue_notes": [
+  "No. 115: the Lappa import table (file line 216) has a 'Munitions of War, Value Hk.Tls' row with a single figure, 89. Because an 1897 entry would print a station figure and a total, the lone figure most likely belongs to the 1895 or 1896 comparison column, so no 1897 row is entered. Check against the scan.",
+  "No. 115: duty-free rows this quarter are rice (military and famine relief), no arms. No Fines and Confiscations tables in this OCR."
+ ]
 }
