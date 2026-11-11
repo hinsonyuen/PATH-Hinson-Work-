@@ -1,0 +1,13 @@
+{
+ "issue": 90, "year": 1891, "quarter": "Q2",
+ "file": "Customs_Gazette_1891_Q2_No090.txt",
+ "processed_at": "2026-11-11 07:22 UTC", "processed_by": "Task A",
+ "imports": [
+  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 5948, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1889 = 8,660; 1890 = 10,594 (not entered)."},
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 689, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Total column. Comparison columns: 1889 = 1,227; 1890 = 2,083 (not entered)."}
+ ],
+ "exports": [],
+ "issue_notes": ["No. 90: the Tamsui export and re-export pages (file lines 101-102) are unreadable in the OCR, so the usual Tamsui sulphur export row could not be entered; take it from the scan.", "No. 90: sulphur rows in the Fusan and Yuensan (Corea) import tables are not entered because they are Corean, not Chinese, ports (Fusan 63 piculs, Yuensan 25 piculs in 1891). No Fines and Confiscations tables in this OCR."]
+}
