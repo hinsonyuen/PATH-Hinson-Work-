@@ -48,6 +48,10 @@ Source: Chinese Maritime Customs, *Customs Gazette* (Statistical Series No. 2), 
   (the 'amount realised' is per case, not per item). If a quantity is unreadable, use null and quote the OCR reading
   in `note`. 'Brimstone' -> type "Sulphur (brimstone)". The vessel's flag is not the country of origin.
   See staging/No066.json for a worked example.
+- **Cross-checks**: the comparison columns show the same quarter 1-3 years earlier. If one confirms or settles a
+  figure that an earlier staging file flagged as uncertain or partial (same port, item, quarter), update that earlier
+  staging file's count and note, saying which issue confirmed it. Only fill a previously missing row this way if you
+  label it in the note as "taken from the comparison column of No. <NNN>".
 - Merge nothing across ports; one row per item per port per entry type.
 
 ## staging/No<NNN>.json format
