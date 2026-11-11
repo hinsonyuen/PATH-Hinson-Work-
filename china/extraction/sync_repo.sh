@@ -9,7 +9,7 @@ if ! git -C "$R" rev-parse --git-dir >/dev/null 2>&1; then
 fi
 cd "$R"
 git checkout -q -B main
-git fetch -q origin main 2>/dev/null && git reset -q --soft origin/main || true
+if git fetch -q origin main 2>/dev/null; then git reset -q --soft FETCH_HEAD; fi
 mkdir -p japan/workbooks japan/reports japan/sources china/workbooks china/sources china/extraction/staging
 cp "$P"/workbooks/Japan_Arms_*.xlsx japan/workbooks/
 cp "$P"/workbooks/blanked-cells.md japan/workbooks/
