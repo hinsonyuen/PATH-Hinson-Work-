@@ -1,0 +1,38 @@
+{
+ "issue": 121,
+ "year": 1899,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1899_Q1_No121.txt",
+ "processed_at": "2026-11-11T18:51:55Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 11816,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 219, Kowloon III. Imports (Foreign Sundries), 1899 Total column",
+   "note": "Item name garbled ('Salt tre'). All through Capsuimoon Station: station column reads 'II,816' and the total 'x,816', taken as 11,816. Comparison columns: 1897 = 11,746; 1898 = 9,600 (both match Nos. 113 and 117)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2741,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 219, Kowloon III. Imports (Foreign Sundries), 1899 Total column",
+   "note": "Item name garbled ('S p ur'). All through Capsuimoon Station. Comparison columns: 1897 = 3,777; 1898 = 2,200 (both match Nos. 113 and 117)."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 121 (1899 Q1): only Kowloon saltpetre and sulphur found. The Canton West River Stages table lists no Munitions of War this quarter. No arms or bonded-warehouse arms entries located in the OCR text."
+ ]
+}
