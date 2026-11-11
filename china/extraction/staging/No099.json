@@ -1,0 +1,52 @@
+{
+ "issue": 99,
+ "year": 1893,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1893_Q3_No099.txt",
+ "processed_at": "2026-11-11T15:18:23Z",
+ "processed_by": "Task A",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 206, Kowloon III. Imports (Foreign Sundries)",
+   "note": "Quantity unreadable. OCR row reads '9,999 5,8 80 20 2': 9,999 is 1891 (matches No. 91), '5,8..' is 1892, and the 1893 figures are garbled. Take from the scan."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1459,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1894_Q3_No103.txt, Kowloon III. Imports, 1893 comparison column",
+   "note": "Taken from the comparison column of No. 103 (OCR '1,376 1,459 2311' read as 1892, 1893, 1894). The sulphur row is missing from the No. 99 OCR."
+  }
+ ],
+ "exports": [
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tamsui",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 111, Tamsui IV. Exports",
+   "note": "Quantity unreadable. OCR row reads '4 ur ...... 1 7 0)'. Take from the scan."
+  }
+ ],
+ "issue_notes": [
+  "No. 99 (1893 Q3): Kowloon and Tamsui pages are badly garbled; saltpetre (Kowloon) and sulphur (Tamsui export) quantities must be taken from the scan. No Fines and Confiscations tables in this OCR.",
+  "No. 99: Shanghai bonded warehouse shows no rifle slings in bond in 1893 Q3 (only the previous-year column, 1,000 pieces on 30 Sept. 1892), so no row entered."
+ ]
+}
