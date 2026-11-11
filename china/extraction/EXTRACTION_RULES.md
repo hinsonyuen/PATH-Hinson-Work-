@@ -43,6 +43,10 @@ Source: Chinese Maritime Customs, *Customs Gazette* (Statistical Series No. 2), 
   confiscated if printed (not the fine).
 - **Doubtful readings**: enter the best reading and say so in `note` (e.g. "OCR: 3,852 or 3,352").
   If a whole table is unreadable, add an `issue_notes` line saying which port/table.
+- **Seizure rows**: one row per item per case; put case number, date and vessel flag in `note`. Leave value null
+  (the 'amount realised' is per case, not per item). If a quantity is unreadable, use null and quote the OCR reading
+  in `note`. 'Brimstone' -> type "Sulphur (brimstone)". The vessel's flag is not the country of origin.
+  See staging/No066.json for a worked example.
 - Merge nothing across ports; one row per item per port per entry type.
 
 ## staging/No<NNN>.json format
