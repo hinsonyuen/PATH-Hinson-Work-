@@ -1,0 +1,39 @@
+{
+ "issue": 118,
+ "year": 1898,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1898_Q2_No118.txt",
+ "processed_at": "2026-11-11T15:46:17Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4440,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 215, Kowloon III. Imports (Foreign Sundries), 1898 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1896 = 5,161; 1897 = 7,645."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 930,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 215, Kowloon III. Imports (Foreign Sundries), 1898 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1896 = 1,365; 1897 = 1,938."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 118 (1898 Q2): only Kowloon saltpetre and sulphur found. No munitions, arms or bonded-warehouse arms entries located in the OCR text.",
+  "No. 118 comparison columns confirm the 1897 Q2 Kowloon figures in No. 114 (saltpetre 7,645, sulphur 1,938). They also give 1896 Q2 Kowloon figures (saltpetre 5,161 piculs, sulphur 1,365 piculs); the 1896 Q2 issue (No. 110) is not among the files, so these are recorded here only and not entered as rows."
+ ]
+}
