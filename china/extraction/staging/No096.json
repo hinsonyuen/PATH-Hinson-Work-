@@ -1,15 +1,64 @@
 {
- "issue": 96, "year": 1892, "quarter": "Q4",
+ "issue": 96,
+ "year": 1892,
+ "quarter": "Q4",
  "file": "Customs_Gazette_1892_Q4_No096.txt",
- "processed_at": "2026-11-11 12:26 UTC", "processed_by": "Task A",
+ "processed_at": "2026-11-11 12:26 UTC",
+ "processed_by": "Task A",
  "imports": [
-  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 9501, "unit": "piculs", "value_hktls": null, "entry": "Trade",
-   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "Item name garbled ('Sd pe'). 9,501 is the first 1892 station column; the other station columns look blank and the total column is garbled, so the total is probably 9,501. Comparison columns: 1890 = 6,471; 1891 = 10,057. Check against the scan."},
-  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Kowloon", "count": 4794, "unit": "piculs", "value_hktls": null, "entry": "Trade",
-   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "PARTIAL: item name garbled ('S lh r'). 4,794 is the first 1892 station column; a further station figure ending in '79' follows and the total column is lost. Comparison column 1891 = 3,484. Check against the scan."},
-  {"type": "Rifle slings", "raw_material": false, "partner": null, "port": "Shanghai", "count": 1000, "unit": "pieces", "value_hktls": null, "entry": "Bonded stock",
-   "source": "file line 83, Shanghai Special Tables, Bonded Warehouses, Sundries", "note": "Not a new import: the 1,000 pieces that arrived in 1892 Q3 (No. 95) are still in bond; no arrivals or withdrawals this quarter."}
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 9501,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries",
+   "note": "Item name garbled ('Sd pe'). 9,501 is the first 1892 station column; the other station columns look blank and the total column is garbled, so the total is probably 9,501. Comparison columns: 1890 = 6,471; 1891 = 10,057. Check against the scan. Confirmed: the 1892 comparison column of No. 100 reads 9,501."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4794,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 200, Kowloon III. Imports (inwards by junk), Foreign Sundries",
+   "note": "item name garbled ('S lh r'). 4,794 is the first 1892 station column; a further station figure ending in '79' follows and the total column is lost. Comparison column 1891 = 3,484. Check against the scan. Confirmed as the quarter total: the 1892 comparison column of No. 100 reads 4,794."
+  },
+  {
+   "type": "Rifle slings",
+   "raw_material": false,
+   "partner": null,
+   "port": "Shanghai",
+   "count": 1000,
+   "unit": "pieces",
+   "value_hktls": null,
+   "entry": "Bonded stock",
+   "source": "file line 83, Shanghai Special Tables, Bonded Warehouses, Sundries",
+   "note": "Not a new import: the 1,000 pieces that arrived in 1892 Q3 (No. 95) are still in bond; no arrivals or withdrawals this quarter."
+  }
  ],
- "exports": [],
- "issue_notes": ["No. 96: the Tamsui export page is not legible in the OCR, so the usual Tamsui sulphur export row could not be entered; take it from the scan. No Fines and Confiscations tables in this OCR."]
+ "exports": [
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tamsui",
+   "count": 1000,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1893_Q4_No100.txt line 110, Tamsui IV. Exports, 1892 comparison column",
+   "note": "Taken from the comparison column of No. 100 (also printed in No. 104). The Tamsui export page of No. 96 itself is illegible."
+  }
+ ],
+ "issue_notes": [
+  "No. 96: the Tamsui export page is not legible in the OCR, so the usual Tamsui sulphur export row could not be entered; take it from the scan. No Fines and Confiscations tables in this OCR.",
+  "No. 96: Tamsui sulphur export (1,000 piculs) added from the comparison column of No. 100; Kowloon saltpetre and sulphur figures confirmed by the same issue."
+ ]
 }

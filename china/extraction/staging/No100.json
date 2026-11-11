@@ -1,0 +1,51 @@
+{
+ "issue": 100,
+ "year": 1893,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1893_Q4_No100.txt",
+ "processed_at": "2026-11-11T16:17:41Z",
+ "processed_by": "Task A",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 11776,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 199, Kowloon III. Imports (Foreign Sundries)",
+   "note": "11,776 is the first 1893 station column (Capsuimoon); the other station columns look blank and the total column is garbled ('..,.7.'), so the total is probably 11,776. Comparison columns: 1891 = 10,057; 1892 = 9,501. Check against the scan."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1260,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 199, Kowloon III. Imports (Foreign Sundries)",
+   "note": "Item name garbled ('p ur h'). 1,260 (OCR '1,26o') is the first 1893 station column; the other station columns are blank and the total column is lost, so the total is probably 1,260. Comparison columns: 1891 = 3,484; 1892 = 4,794. Check against the scan."
+  }
+ ],
+ "exports": [
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tamsui",
+   "count": 554,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 110, Tamsui IV. Exports",
+   "note": "Columns 1890-1893 read 1,638 / 4,514 / 1,000 / 554; 554 is confirmed by the comparison column of No. 104."
+  }
+ ],
+ "issue_notes": [
+  "No. 100 (1893 Q4): Shanghai bonded warehouse lists Rifle Slings with every column blank (none in bond), so no row entered. Tamsui re-exports list no Munitions of War this quarter. No Fines and Confiscations tables in this OCR."
+ ]
+}
