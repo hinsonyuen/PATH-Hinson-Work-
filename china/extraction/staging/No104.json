@@ -1,0 +1,13 @@
+{
+ "issue": 104, "year": 1894, "quarter": "Q4",
+ "file": "Customs_Gazette_1894_Q4_No104.txt",
+ "processed_at": "2026-11-11 05:52 UTC", "processed_by": "Task B",
+ "imports": [],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 4200, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 111, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "OCR reads '4,5H 1,000 554 4,200' for 1891-1894; 1894 taken as 4,200."},
+  {"type": "Munitions of war", "raw_material": false, "partner": null, "port": "Tamsui", "count": null, "unit": "", "value_hktls": null, "entry": "Re-export",
+   "source": "file line 112, Tamsui V. Re-exports to Foreign Countries and Chinese Ports", "note": "Row is present ('MBanits, ofWr') but the page is too garbled to read the 1894 value (a figure '26o' follows the row and may belong to it). Take the value from the scan."}
+ ],
+ "issue_notes": ["No. 104: no Fines and Confiscations tables in this OCR, so no seizure rows.", "No. 104: the Kowloon import page that normally lists Saltpetre and Sulphur is not legible in the OCR (no such rows found); take those figures from the scan."]
+}
