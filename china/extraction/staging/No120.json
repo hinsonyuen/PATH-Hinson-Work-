@@ -1,0 +1,50 @@
+{
+ "issue": 120,
+ "year": 1898,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1898_Q4_No120.txt",
+ "processed_at": "2026-11-11T17:47:53Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Munitions of war",
+   "raw_material": false,
+   "partner": null,
+   "port": "Canton (West River Stages)",
+   "count": null,
+   "unit": null,
+   "value_hktls": 400,
+   "entry": "Trade",
+   "source": "file line 158, Canton, West River Stages, Imports table (Foreign Sundries), printed p. 155",
+   "note": "Value only, Hk.Tls 400. The table has quantity and value columns for four stages (Kongmoon, Kumchuk, Shiuhing, Takhing). The OCR shows five blank columns before 400, which would place it under Shiuhing, but the alignment is not certain and it may be Takhing. Check against the scan."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 10530,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 218, Kowloon III. Imports (Foreign Sundries), 1898 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1896 = 13,642; 1897 = 15,909."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2790,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 218, Kowloon III. Imports (Foreign Sundries), 1898 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1896 = 2,089; 1897 = 3,072."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 120 (1898 Q4): first appearance of the Canton 'West River Stages' import table, which lists Munitions of War, value Hk.Tls 400 (stage uncertain, probably Shiuhing). Kowloon comparison columns confirm the 1897 Q4 figures in No. 116 and the 1896 Q4 figures in No. 112. Duty-free rows are wheat and rice only."
+ ]
+}
