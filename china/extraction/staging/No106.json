@@ -1,11 +1,39 @@
 {
- "issue": 106, "year": 1895, "quarter": "Q2",
+ "issue": 106,
+ "year": 1895,
+ "quarter": "Q2",
  "file": "Customs_Gazette_1895_Q2_No106.txt",
- "processed_at": "2026-11-11 08:24 UTC", "processed_by": "Task B",
+ "processed_at": "2026-11-11 08:24 UTC",
+ "processed_by": "Task B",
  "imports": [
-  {"type": "Saltpetre", "raw_material": true, "partner": null, "port": "Kowloon", "count": 10087, "unit": "piculs", "value_hktls": null, "entry": "Trade",
-   "source": "file line 184, Kowloon III. Imports (inwards by junk), Foreign Sundries", "note": "PARTIAL: OCR reads '7,736 ,6 10087 253'. 10,087 is taken as the first 1895 station column, 253 as a further station; the total column is lost (about 10,340 if those are the only two). Check against the scan."}
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 10340,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 184, Kowloon III. Imports (inwards by junk), Foreign Sundries",
+   "note": "Total 10,340 = station columns 10,087 + 253 as read in this issue; confirmed by the 1895 comparison column in No. 114 (1897 Q2)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2344,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs Gazette No. 114 (1897 Q2), file line 200, Kowloon III. Imports, 1895 comparison column",
+   "note": "Taken from the comparison column of No. 114: the row was not legible in No. 106's own OCR."
+  }
  ],
  "exports": [],
- "issue_notes": ["No. 106: Tamsui's sulphur export row prints figures for 1892-1894 only (670, 2,500, 470) and nothing for 1895; no munitions row appears in the Tamsui re-exports this quarter. The absence of a 1894 comparison figure for munitions here means the Hk.Tls 51,358 read for 1894 Q2 (No. 102) should be double-checked against the scan.", "No. 106: the Kowloon sulphur row could not be found in the OCR. Chinkiang's duty-free rows this quarter are coal, machinery, telegraph materials and rice (military and famine relief), no arms. No Fines and Confiscations tables in this OCR."]
+ "issue_notes": [
+  "No. 106: Tamsui's sulphur export row prints figures for 1892-1894 only (670, 2,500, 470) and nothing for 1895; no munitions row appears in the Tamsui re-exports this quarter. The absence of a 1894 comparison figure for munitions here means the Hk.Tls 51,358 read for 1894 Q2 (No. 102) should be double-checked against the scan.",
+  "No. 106: the Kowloon sulphur row could not be found in this issue's OCR and is filled from the 1895 comparison column of No. 114. Chinkiang's duty-free rows this quarter are coal, machinery, telegraph materials and rice (military and famine relief), no arms. No Fines and Confiscations tables in this OCR."
+ ]
 }
