@@ -1,0 +1,11 @@
+{
+ "issue": 88, "year": 1890, "quarter": "Q4",
+ "file": "Customs_Gazette_1890_Q4_No088.txt",
+ "processed_at": "2026-11-11 05:22 UTC", "processed_by": "Task A",
+ "imports": [],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 1638, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 106, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "OCR reads '950 1,700 580 x,638' for 1887-1890; 1890 taken as 1,638 (first digit uncertain)."}
+ ],
+ "issue_notes": ["No. 88: no Fines and Confiscations tables in this OCR, so no seizure rows.", "No. 88: the Kowloon import page that normally lists Saltpetre and Sulphur is not legible in the OCR (no such rows found); take those figures from the scan."]
+}
