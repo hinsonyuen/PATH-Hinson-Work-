@@ -1,0 +1,14 @@
+{
+ "issue": 95, "year": 1892, "quarter": "Q3",
+ "file": "Customs_Gazette_1892_Q3_No095.txt",
+ "processed_at": "2026-11-11 11:28 UTC", "processed_by": "Task A",
+ "imports": [
+  {"type": "Rifle slings", "raw_material": false, "partner": null, "port": "Shanghai", "count": 1000, "unit": "pieces", "value_hktls": null, "entry": "Trade",
+   "source": "file line 84, Shanghai Special Tables, Bonded Warehouses, Sundries", "note": "Arrivals in bond during the quarter: 1,000 pieces; none withdrawn, 1,000 remaining in bond at the end of the quarter. (5,000 pieces were still in bond in 1894 Q1, see No. 101.)"}
+ ],
+ "exports": [
+  {"type": "Sulphur", "raw_material": true, "partner": null, "port": "Tamsui", "count": 759, "unit": "piculs", "value_hktls": null, "entry": "Trade",
+   "source": "file line 109, Tamsui IV. Exports to Foreign Countries and Chinese Ports", "note": "OCR row reads '1,,0 1,o310a.. 759'; the last figure, 759, is taken as 1892. Check against the scan."}
+ ],
+ "issue_notes": ["No. 95: the Kowloon import page (file line 200) is unreadable in the OCR, so the usual Kowloon saltpetre and sulphur rows could not be entered; take them from the scan. No Fines and Confiscations tables in this OCR."]
+}
