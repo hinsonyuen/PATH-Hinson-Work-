@@ -1,0 +1,38 @@
+{
+ "issue": 127,
+ "year": 1900,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1900_Q3_No127.txt",
+ "processed_at": "2026-11-12T00:46:13Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 8558,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 262, Kowloon III. Imports (Foreign Sundries), 1900 Total column",
+   "note": "All through Capsuimoon Station. Comparison columns: 1898 = 13,667; 1899 = 12,210 (both match Nos. 119 and 123)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1130,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 262, Kowloon III. Imports (Foreign Sundries), 1900 Total column",
+   "note": "All through Capsuimoon Station (total OCR ',130'). Comparison columns: 1898 = 1,787; 1899 = 1,876 (both match Nos. 119 and 123)."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 127 (1900 Q3, Boxer period): only Kowloon saltpetre and sulphur found. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only. The issue also prints a Peking Legation siege staff casualty list, which is not trade data."
+ ]
+}
