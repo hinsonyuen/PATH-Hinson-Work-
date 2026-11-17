@@ -1,0 +1,38 @@
+{
+ "issue": 130,
+ "year": 1901,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1901_Q2_No130.txt",
+ "processed_at": "2026-11-17T09:46:02Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 13690,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 259, Kowloon III. Imports (Foreign Sundries), 1901 Total column",
+   "note": "Item name garbled ('Satptre'). First station 12,677 plus a second station 1,013. Total confirmed by the 1901 comparison column of No. 134. Comparison columns: 1899 = 6,212; 1900 = 11,456."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2711,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 259, Kowloon III. Imports (Foreign Sundries), 1901 Total column",
+   "note": "First station 2,482 plus a second station 229. Total confirmed by the 1901 comparison column of No. 134. Comparison columns: 1899 = 1,010; 1900 = 1,611."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 130 (1901 Q2): only Kowloon saltpetre and sulphur found. The Kowloon returns now list new stations (Taishan, Shachung, Lintin, Samun, Shatowkok) after the New Territories boundary change. No munitions, arms or bonded-warehouse arms entries located in the OCR text."
+ ]
+}
