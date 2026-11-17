@@ -16,7 +16,7 @@
    "value_hktls": null,
    "entry": "Trade",
    "source": "file line 234, Kowloon III. Imports (Foreign Sundries), 1899 Total column",
-   "note": "OCR reads '6604 16604': the station column appears to have lost its leading digit and the total is taken as 16,604. Comparison columns: 1897 = 15,909 (OCR '5909'); 1898 = 10,530 (both match Nos. 116 and 120). Check against the scan."
+   "note": "OCR reads '6604 16604': the station column appears to have lost its leading digit and the total is taken as 16,604. Comparison columns: 1897 = 15,909 (OCR '5909'); 1898 = 10,530 (both match Nos. 116 and 120). Confirmed: the 1899 comparison column of No. 128 reads 16,604."
   },
   {
    "type": "Sulphur",
@@ -28,7 +28,7 @@
    "value_hktls": null,
    "entry": "Trade",
    "source": "file line 234, Kowloon III. Imports (Foreign Sundries), 1899 Total column",
-   "note": "OCR reads '910 3,910': the station column appears to have lost its leading digit and the total is taken as 3,910. Comparison columns: 1897 = 3,072; 1898 = 2,790 (both match Nos. 116 and 120). Check against the scan."
+   "note": "OCR reads '910 3,910': the station column appears to have lost its leading digit and the total is taken as 3,910. Comparison columns: 1897 = 3,072; 1898 = 2,790 (both match Nos. 116 and 120). Confirmed: the 1899 comparison column of No. 128 reads 3,910."
   }
  ],
  "exports": [],
