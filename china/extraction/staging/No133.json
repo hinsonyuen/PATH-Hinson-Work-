@@ -1,0 +1,38 @@
+{
+ "issue": 133,
+ "year": 1902,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1902_Q1_No133.txt",
+ "processed_at": "2026-11-17T12:46:22Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12484,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 235, Kowloon III. Imports (Foreign Sundries), 1902 Total column",
+   "note": "First station 12,196 plus a second station 288. The total column OCR reads '42,484'; the station figures add to 12,484, which is entered. Comparison columns: 1900 = 12,299; 1901 = 10,061."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2580,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 235, Kowloon III. Imports (Foreign Sundries), 1902 Total column",
+   "note": "Single station (OCR '2,58a'), total 2,580. Comparison columns: 1900 = 3,352; 1901 = 2,504."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 133 (1902 Q1): only Kowloon saltpetre and sulphur found. No munitions, arms or bonded-warehouse arms entries located in the OCR text."
+ ]
+}
