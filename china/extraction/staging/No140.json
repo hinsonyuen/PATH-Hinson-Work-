@@ -1,0 +1,63 @@
+{
+ "issue": 140,
+ "year": 1903,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1903_Q4_No140.txt",
+ "processed_at": "2026-11-17T18:46:21Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 21138,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1904_Q4_No144.txt line 283, Kowloon III. Imports, 1903 comparison column",
+   "note": "Taken from the comparison column of No. 144 (OCR '21 138'). The saltpetre row is absent from the Kowloon table in the No. 140 OCR (file line 277 runs Rice and Paddy, Sago, Sandalwood)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 5397,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1904_Q4_No144.txt line 283, Kowloon III. Imports, 1903 comparison column",
+   "note": "Taken from the comparison column of No. 144. The sulphur row is absent from the Kowloon table in the No. 140 OCR."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Wuhu",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 86, Wuhu III. Imports (Sundries)",
+   "note": "Quantity unreadable. The row sits between Pepper, Black and Sandalwood and the OCR shows only a single '4' for the 1900-1903 columns. Take from the scan."
+  }
+ ],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 5816,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1905_Q4_No148.txt line 29, Tientsin Native Customs II. Exports, 1903 comparison column",
+   "note": "Taken from the comparison column of No. 148 (No. 144 reads ',8 6' for the same figure). The row is not legible in the No. 140 OCR. Junk-borne native trade from Taku and Peitang; destination not named."
+  }
+ ],
+ "issue_notes": [
+  "No. 140 (1903 Q4): Kowloon saltpetre and sulphur and the Tientsin Native Customs saltpetre export were taken from the comparison columns of Nos. 144 and 148 because the rows are missing from this issue's OCR. Wuhu lists a saltpetre import whose quantity is unreadable. 'Gun Cloth' hits are a cotton piece-good, not arms."
+ ]
+}
