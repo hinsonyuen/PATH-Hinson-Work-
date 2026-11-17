@@ -1,0 +1,50 @@
+{
+ "issue": 132,
+ "year": 1901,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1901_Q4_No132.txt",
+ "processed_at": "2026-11-17T11:46:15Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 18582,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1902_Q4_No136.txt line 244, Kowloon III. Imports, 1901 comparison column",
+   "note": "Taken from the comparison column of No. 136. The Kowloon import page of No. 132 is not legible in the OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3193,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1902_Q4_No136.txt line 244, Kowloon III. Imports, 1901 comparison column",
+   "note": "Taken from the comparison column of No. 136. The Kowloon import page of No. 132 is not legible in the OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Wuhu",
+   "count": 232,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 82, Wuhu III. Imports (Foreign Sundries), 1901 column",
+   "note": "OCR row reads 'I 232-s' under the 1899-1901 columns; 232 taken as 1901. The table covers imports from foreign countries and Chinese ports together, so origin is not known. The Wuhu Internal Transit table (file line 85) also shows sulphur sent inland under transit pass, 116 piculs in 1901 (OCR '16'; 116 per the comparison column of No. 136), which is part of this import and not entered separately. Check against the scan."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 132 (1901 Q4): the Kowloon import page is not legible, so saltpetre and sulphur were taken from the 1901 comparison columns of No. 136 (1902 Q4). Wuhu lists a sulphur import (232 piculs) for the first time. No munitions or bonded-warehouse arms entries located in the OCR text."
+ ]
+}

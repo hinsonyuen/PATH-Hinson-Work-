@@ -1,0 +1,38 @@
+{
+ "issue": 131,
+ "year": 1901,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1901_Q3_No131.txt",
+ "processed_at": "2026-11-17T11:46:15Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 15987,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 258, Kowloon III. Imports (Foreign Sundries), 1901 Total column",
+   "note": "Item name lost in the OCR; row reads '12,210 8,..8 15,003 984 .. 5,987' (1899, 1900, then 1901 stations 15,003 + 984 and total 15,987). Total confirmed by the 1901 comparison column of No. 135."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2341,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1902_Q3_No135.txt line 246, Kowloon III. Imports, 1901 comparison column",
+   "note": "Taken from the comparison column of No. 135. The sulphur row is not legible in the No. 131 OCR."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 131 (1901 Q3): Kowloon page is partly garbled; saltpetre read from the page and confirmed by No. 135, sulphur taken from the comparison column of No. 135. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only."
+ ]
+}
