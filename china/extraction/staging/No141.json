@@ -17,6 +17,18 @@
    "entry": "Trade",
    "source": "file line 281, Kowloon III. Imports, 1904 Total column",
    "note": "Single station, total 10,116 (OCR '1o,ii6 ... io,iI6'); confirmed by the 1904 comparison column of No. 145. Comparison columns: 1902 = 12,484 (matches No. 133); 1903 = 9,166 (the 1903 Q1 issue, No. 137, is missing)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4720,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1906_Q1_No149.txt line 257, Kowloon III. Imports, comparison column",
+   "note": "Taken from the 1904 comparison column of No. 149. The row was not found in the No. 141 OCR."
   }
  ],
  "exports": [
@@ -34,6 +46,7 @@
   }
  ],
  "issue_notes": [
-  "No. 141 (1904 Q1): Kowloon saltpetre read from the page; Kowloon sulphur row not found in the OCR. Tientsin Native Customs saltpetre export taken from No. 145. For the missing 1903 Q1 issue (No. 137), No. 141 prints Kowloon saltpetre 9,166 piculs in its 1903 comparison column; this is recorded here only."
+  "No. 141 (1904 Q1): Kowloon saltpetre read from the page; Kowloon sulphur row not found in the OCR. Tientsin Native Customs saltpetre export taken from No. 145. For the missing 1903 Q1 issue (No. 137), No. 141 prints Kowloon saltpetre 9,166 piculs in its 1903 comparison column; this is recorded here only.",
+  "No. 141: Kowloon sulphur (4,720 piculs) added from the comparison column of No. 149."
  ]
 }

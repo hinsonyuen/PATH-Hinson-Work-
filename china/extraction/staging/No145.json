@@ -1,0 +1,51 @@
+{
+ "issue": 145,
+ "year": 1905,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1905_Q1_No145.txt",
+ "processed_at": "2026-11-17T23:46:07Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12300,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 260, Kowloon III. Imports, 1905 Total column",
+   "note": "Single station, total 12,300 (total column OCR '1230'); confirmed by the 1905 comparison column of No. 149. Comparison columns: 1903 = 9,166; 1904 = 10,116."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2374,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1906_Q1_No149.txt line 257, Kowloon III. Imports, comparison column",
+   "note": "Taken from the 1905 comparison column of No. 149. The sulphur row is not legible in the No. 145 OCR."
+  }
+ ],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 519,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 26, Tientsin Native Customs II. Exports, 1905 column",
+   "note": "OCR reads '331 5 19', read as 1904 = 331 and 1905 = 519. Check against the scan. Junk-borne native trade from Taku and Peitang; destination not named."
+  }
+ ],
+ "issue_notes": [
+  "No. 145 (1905 Q1): Kowloon saltpetre (page) and sulphur (from No. 149), and the Tientsin Native Customs saltpetre export. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only."
+ ]
+}
