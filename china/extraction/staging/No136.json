@@ -1,0 +1,38 @@
+{
+ "issue": 136,
+ "year": 1902,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1902_Q4_No136.txt",
+ "processed_at": "2026-11-17T16:46:21Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 17223,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 244, Kowloon III. Imports (Foreign Sundries), 1902 Total column",
+   "note": "Single station, total 17,223. Comparison columns: 1900 garbled ('2 2', 21,092 in No. 128); 1901 = 18,582."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4530,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 244, Kowloon III. Imports (Foreign Sundries), 1902 Total column",
+   "note": "Single station, total 4,530. Comparison columns: 1900 = 3,990 (matches No. 128); 1901 = 3,193."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 136 (1902 Q4): only Kowloon saltpetre and sulphur found. The Wuhu Internal Transit table lists sulphur with no 1902 figure. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only."
+ ]
+}
