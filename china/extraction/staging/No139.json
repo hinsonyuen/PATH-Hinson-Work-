@@ -1,0 +1,26 @@
+{
+ "issue": 139,
+ "year": 1903,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1903_Q3_No139.txt",
+ "processed_at": "2026-11-17T17:46:26Z",
+ "processed_by": "Task B",
+ "imports": [],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 4289,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 30, Tientsin Native Customs, II. Exports (carried by sea-going junks from Taku and Peitang), 1903 column",
+   "note": "OCR reads '. 4,28' with the last digit lost; 4,289 is confirmed by the 1903 comparison column of No. 143. No 1902 figure. This is junk-borne native trade, so the destination is most likely other Chinese ports; the Gazette does not name it."
+  }
+ ],
+ "issue_notes": [
+  "No. 139 (1903 Q3): the new Tientsin Native Customs return lists a saltpetre export by junk (4,289 piculs). The Kowloon table no longer lists saltpetre or sulphur. Other keyword hits are antimony ore and rice, not arms."
+ ]
+}
