@@ -6,8 +6,22 @@
  "processed_at": "2026-11-17T16:46:21Z",
  "processed_by": "Task B",
  "imports": [],
- "exports": [],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 59,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1904_Q2_No142.txt line 31, Tientsin Native Customs II. Exports, comparison column",
+   "note": "Taken from the 1903 comparison column of No. 142 (OCR '328 59 !,263'). Junk-borne native trade from Taku and Peitang; destination not named."
+  }
+ ],
  "issue_notes": [
-  "No. 138 (1903 Q2): no arms-trade rows found. The Kowloon import table in this issue does not list Saltpetre or Sulphur (the Foreign Sundries list runs Rice and Paddy, Sandalwood, Sapanwood, Seaweed, Stock-fish), although both reappear in the 1903 Q4 figures printed in No. 144, so the 1903 Q2 quantities are unknown; check the scan. Keyword hits in this issue are antimony and arsenic ores, joss-stick powder and month headings misread as 'Arms', none of which are arms trade."
+  "No. 138 (1903 Q2): no arms-trade rows found. The Kowloon import table in this issue does not list Saltpetre or Sulphur (the Foreign Sundries list runs Rice and Paddy, Sandalwood, Sapanwood, Seaweed, Stock-fish), although both reappear in the 1903 Q4 figures printed in No. 144, so the 1903 Q2 quantities are unknown; check the scan. Keyword hits in this issue are antimony and arsenic ores, joss-stick powder and month headings misread as 'Arms', none of which are arms trade.",
+  "No. 138: Tientsin Native Customs saltpetre export (59 piculs) added from the comparison column of No. 142."
  ]
 }

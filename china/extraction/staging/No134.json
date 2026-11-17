@@ -31,8 +31,22 @@
    "note": "Single station, total 1,765. Comparison columns: 1900 = 1,611; 1901 = 2,711 (both match Nos. 126 and 130)."
   }
  ],
- "exports": [],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 328,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1904_Q2_No142.txt line 31, Tientsin Native Customs II. Exports, comparison column",
+   "note": "Taken from the 1902 comparison column of No. 142 (OCR '328 59 !,263'). The Tientsin Native Customs return is not printed in No. 134. Junk-borne native trade from Taku and Peitang; destination not named."
+  }
+ ],
  "issue_notes": [
-  "No. 134 (1902 Q2): only Kowloon saltpetre and sulphur found. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only."
+  "No. 134 (1902 Q2): only Kowloon saltpetre and sulphur found. No munitions, arms or bonded-warehouse arms entries located in the OCR text; duty-free rows are rice only.",
+  "No. 134: Tientsin Native Customs saltpetre export (328 piculs) added from the comparison column of No. 142."
  ]
 }

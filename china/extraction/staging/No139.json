@@ -5,7 +5,20 @@
  "file": "Customs_Gazette_1903_Q3_No139.txt",
  "processed_at": "2026-11-17T17:46:26Z",
  "processed_by": "Task B",
- "imports": [],
+ "imports": [
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2956,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1904_Q3_No143.txt line 286, Kowloon III. Imports, 1903 comparison column",
+   "note": "Taken from the comparison column of No. 143. The row is missing from the No. 139 OCR."
+  }
+ ],
  "exports": [
   {
    "type": "Saltpetre",
@@ -21,6 +34,7 @@
   }
  ],
  "issue_notes": [
-  "No. 139 (1903 Q3): the new Tientsin Native Customs return lists a saltpetre export by junk (4,289 piculs). The Kowloon table no longer lists saltpetre or sulphur. Other keyword hits are antimony ore and rice, not arms."
+  "No. 139 (1903 Q3): the new Tientsin Native Customs return lists a saltpetre export by junk (4,289 piculs). The Kowloon table no longer lists saltpetre or sulphur. Other keyword hits are antimony ore and rice, not arms.",
+  "No. 139: Kowloon sulphur (2,956 piculs) added from the comparison column of No. 143."
  ]
 }

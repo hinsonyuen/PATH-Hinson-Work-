@@ -1,0 +1,26 @@
+{
+ "issue": 142,
+ "year": 1904,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1904_Q2_No142.txt",
+ "processed_at": "2026-11-17T21:46:26Z",
+ "processed_by": "Task B",
+ "imports": [],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 1263,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 31, Tientsin Native Customs II. Exports, 1904 column",
+   "note": "OCR reads '328 59 !,263' under 1902, 1903 and 1904; 1904 taken as 1,263. Junk-borne native trade from Taku and Peitang; destination not named."
+  }
+ ],
+ "issue_notes": [
+  "No. 142 (1904 Q2, Russo-Japanese War): Tientsin Native Customs saltpetre export only. Kowloon saltpetre and sulphur rows not found in the OCR. The issue prints notices about Russian mines and military examination of ships at Newchwang, which are not trade data. Duty-free rows are rice only."
+ ]
+}

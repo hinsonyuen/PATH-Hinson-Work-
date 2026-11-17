@@ -47,3 +47,6 @@
 2026-11-17T16:46:27Z Task B No138 1903 Q2: 0 rows (Kowloon table no longer lists saltpetre/sulphur)
 2026-11-17T17:46:31Z Task B No139 1903 Q3: 0 import rows, 1 export row
 2026-11-17T18:46:26Z Task B No140 1903 Q4: 3 import rows, 1 export row
+2026-11-17T21:46:32Z Task B No141 1904 Q1: 1 import row, 1 export row
+2026-11-17T21:46:32Z Task B No142 1904 Q2: 0 import rows, 1 export row
+2026-11-17T21:46:32Z Task B No143 1904 Q3: 1 import row, 0 export rows; backfilled Nos 134, 138, 139 from comparison columns
