@@ -1,0 +1,40 @@
+{
+ "issue": 160,
+ "year": 1908,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1908_Q4_No160.txt",
+ "processed_at": "2026-11-18T14:46:23Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12890,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1909_Q4_No164.txt line 306, Kowloon III. Imports, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 164 ('Saltpetre ... 15,040 12,890 14,16o'); the row is not legible in the No. 160 OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4470,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1909_Q4_No164.txt line 306, Kowloon III. Imports, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 164 ('Sulphur ... 3,979 4,470 4,o6o'); the row is not legible in the No. 160 OCR."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Tientsin Native Customs II. Exports saltpetre row (file line 36) shows only 421 (1906): no saltpetre export in 1908 Q4.",
+  "Chinwangtao 'Stores, Military, Foreign' Hk.Tls 73,615 (file line 389) is a 1905 comparison figure, entered under 1905 Q4.",
+  "Harbin 'Sulphuric Acid' is excluded."
+ ]
+}

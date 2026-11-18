@@ -11,12 +11,12 @@
    "raw_material": true,
    "partner": null,
    "port": "Kowloon",
-   "count": null,
+   "count": 15040,
    "unit": "piculs",
    "value_hktls": null,
    "entry": "Trade",
-   "source": "file line 303, Kowloon III. Imports",
-   "note": "Quantity missing. The saltpetre row is lost in the OCR of this page (nothing between Paddy and Sapanwood). Take from the scan or from the 1907 comparison column of a later issue."
+   "source": "Customs_Gazette_1909_Q4_No164.txt line 306, Kowloon III. Imports, 1907 comparison column",
+   "note": "Taken from the comparison column of No. 164 ('Saltpetre ... 15,040 12,890 14,16o'); the row is lost in the No. 156 OCR."
   },
   {
    "type": "Sulphur",
@@ -28,25 +28,12 @@
    "value_hktls": null,
    "entry": "Trade",
    "source": "file line 303, Kowloon III. Imports, 1907 Total column",
-   "note": "Uncertain reading. OCR reads 'S lh r ... 4,41I0- 408 3,o 979 ... ... 1979'; the first two columns fit 4,410 (1905) and 4,180 (1906), and the 1907 total is read as 3,979. Check against scan."
+   "note": "OCR reads 'S lh r ... 4,41I0- 408 3,o 979 ... ... 1979'. Confirmed as 3,979 by the 1907 comparison column of No. 164."
   }
  ],
- "exports": [
-  {
-   "type": "Military stores, foreign",
-   "raw_material": false,
-   "partner": null,
-   "port": "Chinwangtao",
-   "count": null,
-   "unit": null,
-   "value_hktls": 73615,
-   "entry": "Re-export",
-   "source": "file line 348, Chinwangtao re-exports table, 'Stores, Military, Foreign'",
-   "note": "Uncertain. OCR reads 'Stores, Military, Foreign....... ,.. 731615', read as Hk.Tls 73,615. The table has columns for 1904 to 1907 and the OCR does not show which column the figure sits in; it is the last figure on the row, so it is taken as 1907. No quantity given. Check against scan."
-  }
- ],
+ "exports": [],
  "issue_notes": [
   "Tientsin Native Customs II. Exports saltpetre row (file line 34) shows 5,712 for 1904 and 421 for 1906 and blanks for 1905 and 1907: no saltpetre export in 1907 Q4.",
-  "Chinwangtao re-export of foreign military stores is entered in the exports workbook as a re-export; the year column needs checking on the scan."
+  "Chinwangtao re-exports table lists 'Stores, Military, Foreign' Hk.Tls 73,615, but comparing Nos. 152, 156 and 160 shows the figure sits in the 1905 column, so it is entered under 1905 Q4 (No. 148), not here."
  ]
 }
