@@ -1,0 +1,39 @@
+{
+ "issue": 157,
+ "year": 1908,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1908_Q1_No157.txt",
+ "processed_at": "2026-11-18T11:45:58Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 8133,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 300, Kowloon III. Imports, 1908 column",
+   "note": "Row name lost in OCR; OCR reads '9,420 8, 8133' (9,420 is 1907 Q1). Confirmed by the 1908 comparison column of No. 161 (8,133)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3640,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1909_Q1_No161.txt line 290, Kowloon III. Imports, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 161 ('Suphur ... 3,060 3,640 4,018'); the sulphur row is not legible in the No. 157 OCR."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No saltpetre row found in the Tientsin Native Customs exports table for 1908 Q1.",
+  "Other keyword hits (fog gun notice, staff lists) are not arms."
+ ]
+}
