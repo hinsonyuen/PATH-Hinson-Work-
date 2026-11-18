@@ -1,0 +1,51 @@
+{
+ "issue": 165,
+ "year": 1910,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1910_Q1_No165.txt",
+ "processed_at": "2026-11-18T19:45:39Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 6815,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 302, Kowloon III. Imports, 1910 Total column",
+   "note": "OCR reads 'Salt etre ... 8,133 12,225 6,815 ... ... 6,815'. Confirmed by the 1910 comparison column of No. 169."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4680,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 302, Kowloon III. Imports, 1910 Total column",
+   "note": "OCR reads '3,640 4,018 4,680 ... ... 4,680'. Confirmed by the 1910 comparison column of No. 169."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 320,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 252, Pakhoi imports table, 1910 column",
+   "note": "OCR reads 'Saltpetre ... 320 i60 530 320' for 1907 to 1910. Confirmed by the 1910 comparison column of No. 169."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "First issue in which the Pakhoi imports table prints a saltpetre row.",
+  "Fog-gun signal notices and other keyword hits are not arms."
+ ]
+}
