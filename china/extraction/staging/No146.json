@@ -5,22 +5,35 @@
  "file": "Customs_Gazette_1905_Q2_No146.txt",
  "processed_at": "2026-11-18T00:46:06Z",
  "processed_by": "Task B",
- "imports": [],
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 11400,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1907_Q2_No154.txt line 308, Kowloon III. Imports, comparison columns",
+   "note": "Taken from the 1905 comparison column of No. 154 (item name lost in the OCR; the row sits between Paddy and Sandalwood and reads '11,400 9,0 10,300 .10,30')."
+  }
+ ],
  "exports": [
   {
    "type": "Saltpetre",
    "raw_material": true,
    "partner": null,
    "port": "Tientsin (Native Customs)",
-   "count": 65,
+   "count": 654,
    "unit": "piculs",
    "value_hktls": null,
    "entry": "Trade",
    "source": "file line 30, Tientsin Native Customs II. Exports, 1905 column",
-   "note": "UNCERTAIN. The row (name garbled 'Satpetre') reads '328 591 ,6365' under the 1902-1905 columns. Since No. 142 gives 328, 59 and 1,263 for 1902-1904, the string is read as 328 / 59 / 1,[2]63 / 65, making 1905 = 65 piculs. Check against the scan. Junk-borne native trade from Taku and Peitang; destination not named."
+   "note": "The row in No. 146 (name garbled 'Satpetre') reads '328 591 ,6365' under the 1902-1905 columns, i.e. 328 / 59 / 1,263 / 65[4]. The 1905 comparison column of No. 154 reads 654, so 654 is entered. Junk-borne native trade from Taku and Peitang; destination not named."
   }
  ],
  "issue_notes": [
-  "No. 146 (1905 Q2): Tientsin Native Customs saltpetre export only, with an uncertain reading. Kowloon saltpetre and sulphur rows were not found in the OCR of this issue or in the comparison columns of No. 150. Month headings misread as 'Arms' are not arms trade."
+  "No. 146 (1905 Q2): Tientsin Native Customs saltpetre export corrected from 65 to 654 and Kowloon saltpetre (11,400 piculs) added, both from the comparison columns of No. 154. Kowloon sulphur for this quarter is still unknown. Month headings misread as 'Arms' are not arms trade."
  ]
 }

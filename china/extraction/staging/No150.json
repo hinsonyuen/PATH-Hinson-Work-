@@ -1,0 +1,51 @@
+{
+ "issue": 150,
+ "year": 1906,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1906_Q2_No150.txt",
+ "processed_at": "2026-11-18T04:45:50Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1907_Q2_No154.txt line 308, Kowloon III. Imports, comparison columns",
+   "note": "Quantity incomplete. Not in the No. 150 OCR; the 1906 comparison column of No. 154 reads '9,0' (about 9,000 piculs, last digits lost). Take from the scan."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1907_Q2_No154.txt line 308, Kowloon III. Imports, comparison columns",
+   "note": "Quantity uncertain. Not in the No. 150 OCR; the row in No. 154 reads '3,725 2,1 30 ... ... 2.930' with one of the 1905/1906 columns missing, so 3,725 may be either 1905 or 1906. Take from the scan."
+  }
+ ],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 153,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1907_Q2_No154.txt line 30, Tientsin Native Customs exports, comparison columns",
+   "note": "Taken from the comparison column of No. 154, which reads '1,263 654 153 ...' for 1904-1907. The row is not legible in the No. 150 OCR. Junk-borne native trade; destination not named."
+  }
+ ],
+ "issue_notes": [
+  "No. 150 (1906 Q2): nothing legible in this issue's own OCR; the Tientsin Native Customs saltpetre export (153 piculs) comes from No. 154, and the Kowloon saltpetre and sulphur rows are entered without quantities because the comparison columns are incomplete. Antimony and arsenic hits are not arms."
+ ]
+}
