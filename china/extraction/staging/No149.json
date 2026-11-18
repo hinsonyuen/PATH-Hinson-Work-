@@ -1,0 +1,38 @@
+{
+ "issue": 149,
+ "year": 1906,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1906_Q1_No149.txt",
+ "processed_at": "2026-11-18T03:45:50Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12541,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 257, Kowloon III. Imports, 1906 Total column",
+   "note": "Single station, total 12,541. Comparison columns: 1904 = 10,116; 1905 = 12,300 (both match Nos. 141 and 145)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2900,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 257, Kowloon III. Imports, 1906 Total column",
+   "note": "Single station, total 2,900. Comparison columns: 1904 = 4,720; 1905 = 2,374."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 149 (1906 Q1): clean read of the Kowloon page; saltpetre and sulphur only. The Tientsin Native Customs table in No. 153 shows no saltpetre export for 1906 Q1 and confirms the earlier readings of 331 (1904 Q1) and 519 (1905 Q1, OCR '51i'). Duty-free rows are rice only."
+ ]
+}
