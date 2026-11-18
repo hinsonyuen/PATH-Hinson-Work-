@@ -1,0 +1,38 @@
+{
+ "issue": 148,
+ "year": 1905,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1905_Q4_No148.txt",
+ "processed_at": "2026-11-18T02:46:05Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 16710,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1906_Q4_No152.txt line 272, Kowloon III. Imports, 1905 comparison column",
+   "note": "Taken from the comparison column of No. 152. The saltpetre row is not legible in the No. 148 OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4410,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 268, Kowloon III. Imports, 1905 Total column",
+   "note": "Item name garbled ('Sup ur'). Single station, total 4,410 (OCR '4410o ... 4,410o'); the comparison column of No. 152 reads '4,4.o'. Comparison columns: 1903 = 5,397; 1904 = 6,590 (both match Nos. 140 and 144)."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 148 (1905 Q4): Kowloon sulphur read from the page and saltpetre taken from No. 152. The Tientsin Native Customs export table lists saltpetre for 1903 (5,816) and 1904 (5,712) but shows no figure for 1905. Duty-free rows are rice only."
+ ]
+}
