@@ -1,0 +1,51 @@
+{
+ "issue": 152,
+ "year": 1906,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1906_Q4_No152.txt",
+ "processed_at": "2026-11-18T06:46:05Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 22387,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 272, Kowloon III. Imports, 1906 Total column",
+   "note": "Single station, total 22,387. Comparison columns: 1904 = 20,930 (matches No. 144); 1905 = 16,710."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4180,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 272, Kowloon III. Imports, 1906 Total column",
+   "note": "Single station, total 4,180. Comparison columns: 1904 = 6,590 (matches No. 144); 1905 = 4,410 (OCR '4,4.o', matches No. 148)."
+  }
+ ],
+ "exports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Tientsin (Native Customs)",
+   "count": 421,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 31, Tientsin Native Customs II. Exports, 1906 column",
+   "note": "OCR reads '5,806 5,712 .21' under 1903-1906 (1903 is 5,816 per No. 148; 1905 blank). The 1906 figure is 421 per the comparison column of No. 156. Junk-borne native trade; destination not named."
+  }
+ ],
+ "issue_notes": [
+  "No. 152 (1906 Q4): clean Kowloon read (saltpetre and sulphur) plus the Tientsin Native Customs saltpetre export. No munitions, arms or bonded-warehouse arms entries located in the OCR text."
+ ]
+}
