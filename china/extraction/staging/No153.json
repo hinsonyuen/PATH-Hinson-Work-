@@ -1,0 +1,39 @@
+{
+ "issue": 153,
+ "year": 1907,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1907_Q1_No153.txt",
+ "processed_at": "2026-11-18T07:46:56Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 9420,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 289, Kowloon III. Imports, 1907 Total column",
+   "note": "Row name garbled in OCR ('Sat te'); OCR reads '1 ,0 254 ,2 . . 9,420'. Prior-year columns fit 12,300 (1905) and 12,541 (1906). Check against scan."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3060,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 289, Kowloon III. Imports, 1907 Total column",
+   "note": "OCR reads 'S lh r ... 1 2,374 2,900 . 3,o6o ... ... 3,o60'; prior-year columns match 1905 Q1 (2,374) and 1906 Q1 (2,900)."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Tientsin Native Customs II. Exports saltpetre row (file line 18) shows 331 and 519 for 1904 and 1905 and blanks for 1906 and 1907: no saltpetre export in 1907 Q1.",
+  "Other keyword hits (Gun Cloth, duty-free rice, staff lists) are not arms."
+ ]
+}
