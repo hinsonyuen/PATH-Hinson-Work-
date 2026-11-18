@@ -1,0 +1,39 @@
+{
+ "issue": 154,
+ "year": 1907,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1907_Q2_No154.txt",
+ "processed_at": "2026-11-18T08:46:08Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 10300,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 308, Kowloon III. Imports, 1907 Total column",
+   "note": "Row name lost in OCR (sits between Paddy and Sandalwood); OCR reads '11,400 9,0 10,300 .10,30'. The 11,400 matches 1905 Q2. Check against scan."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2930,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 308, Kowloon III. Imports, 1907 Total column",
+   "note": "OCR reads '3,725 2,1 30 ... ... 2.930'; station column garbled, total read as 2,930."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Tientsin Native Customs II. Exports saltpetre row (file line 30) shows 1,263, 654 and 153 for 1904 to 1906 and a blank for 1907: no saltpetre export in 1907 Q2.",
+  "Other keyword hits are not arms."
+ ]
+}
