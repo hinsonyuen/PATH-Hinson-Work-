@@ -1,0 +1,52 @@
+{
+ "issue": 161,
+ "year": 1909,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1909_Q1_No161.txt",
+ "processed_at": "2026-11-18T15:46:08Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12225,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 290, Kowloon III. Imports, 1909 Total column",
+   "note": "OCR reads '9,420 8,133 12,215 10 ... 12,225' (station columns 12,215 and 10)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4018,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 290, Kowloon III. Imports, 1909 Total column",
+   "note": "OCR reads 'Suphur ... 3,060 3,640 4,018 ... ... 4,o18'. Confirmed by the 1909 comparison column of No. 165."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 530,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1910_Q1_No165.txt line 252, Pakhoi imports table, 1909 comparison column",
+   "note": "Taken from the comparison column of No. 165 ('Saltpetre ... 320 i60 530 320' for 1907 to 1910); the Pakhoi table in this issue's own OCR shows no saltpetre row."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre imports first appear as a printed row in the 1910 issues, whose comparison columns go back to 1907; the Q1 figures for 1907 to 1909 are entered from No. 165.",
+  "No saltpetre row in the Tientsin Native Customs exports table for 1909 Q1.",
+  "Other keyword hits (staff lists, duty-free rice) are not arms."
+ ]
+}

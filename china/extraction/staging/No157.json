@@ -29,11 +29,24 @@
    "entry": "Trade",
    "source": "Customs_Gazette_1909_Q1_No161.txt line 290, Kowloon III. Imports, 1908 comparison column",
    "note": "Taken from the comparison column of No. 161 ('Suphur ... 3,060 3,640 4,018'); the sulphur row is not legible in the No. 157 OCR."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 160,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1910_Q1_No165.txt line 252, Pakhoi imports table, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 165 ('Saltpetre ... 320 i60 530 320' for 1907 to 1910); the Pakhoi table in this issue's own OCR shows no saltpetre row."
   }
  ],
  "exports": [],
  "issue_notes": [
   "No saltpetre row found in the Tientsin Native Customs exports table for 1908 Q1.",
-  "Other keyword hits (fog gun notice, staff lists) are not arms."
+  "Other keyword hits (fog gun notice, staff lists) are not arms.",
+  "Pakhoi saltpetre import backfilled from the comparison column of No. 165."
  ]
 }

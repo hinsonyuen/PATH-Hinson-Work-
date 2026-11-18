@@ -29,11 +29,24 @@
    "entry": "Trade",
    "source": "file line 289, Kowloon III. Imports, 1907 Total column",
    "note": "OCR reads 'S lh r ... 1 2,374 2,900 . 3,o6o ... ... 3,o60'; prior-year columns match 1905 Q1 (2,374) and 1906 Q1 (2,900)."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 320,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1910_Q1_No165.txt line 252, Pakhoi imports table, 1907 comparison column",
+   "note": "Taken from the comparison column of No. 165 ('Saltpetre ... 320 i60 530 320' for 1907 to 1910); the Pakhoi table in this issue's own OCR shows no saltpetre row."
   }
  ],
  "exports": [],
  "issue_notes": [
   "Tientsin Native Customs II. Exports saltpetre row (file line 18) shows 331 and 519 for 1904 and 1905 and blanks for 1906 and 1907: no saltpetre export in 1907 Q1.",
-  "Other keyword hits (Gun Cloth, duty-free rice, staff lists) are not arms."
+  "Other keyword hits (Gun Cloth, duty-free rice, staff lists) are not arms.",
+  "Pakhoi saltpetre import backfilled from the comparison column of No. 165."
  ]
 }
