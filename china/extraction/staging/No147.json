@@ -11,28 +11,28 @@
    "raw_material": true,
    "partner": null,
    "port": "Kowloon",
-   "count": null,
+   "count": 12542,
    "unit": "piculs",
    "value_hktls": null,
    "entry": "Trade",
-   "source": "Customs_Gazette_1906_Q3_No151.txt line 278, Kowloon III. Imports, 1905 comparison column",
-   "note": "Quantity incomplete. The row is not in the No. 147 OCR; the 1905 comparison column of No. 151 reads '12,42' (about 12,420 piculs, last digit lost). Take from the scan."
+   "source": "Customs_Gazette_1907_Q3_No155.txt line 300, Kowloon III. Imports, 1905 comparison column",
+   "note": "Taken from the 1905 comparison column of No. 155; No. 151 reads '12,42' for the same figure. The row is not in the No. 147 OCR."
   },
   {
    "type": "Sulphur",
    "raw_material": true,
    "partner": null,
    "port": "Kowloon",
-   "count": null,
+   "count": 1610,
    "unit": "piculs",
    "value_hktls": null,
    "entry": "Trade",
-   "source": "Customs_Gazette_1906_Q3_No151.txt line 278, Kowloon III. Imports, 1905 comparison column",
-   "note": "Quantity incomplete. The row is not in the No. 147 OCR; the 1905 comparison column of No. 151 reads ',6to' (ends in 610, leading digit lost). Take from the scan."
+   "source": "Customs_Gazette_1907_Q3_No155.txt line 300, Kowloon III. Imports, 1905 comparison column",
+   "note": "Taken from the 1905 comparison column of No. 155 (OCR '1,61o'); No. 151 reads ',6to' for the same figure. The row is not in the No. 147 OCR."
   }
  ],
  "exports": [],
  "issue_notes": [
-  "No. 147 (1905 Q3): no arms rows legible in this issue. Kowloon saltpetre and sulphur are entered without quantities because only partial figures survive in the comparison columns of No. 151. The Tientsin Native Customs table in No. 151 shows no saltpetre export for 1905 Q3. Duty-free rows are rice only."
+  "No. 147 (1905 Q3): Kowloon saltpetre and sulphur are not legible in this issue and were taken from the comparison columns of No. 155. The Tientsin Native Customs table in No. 151 shows no saltpetre export for 1905 Q3. Duty-free rows are rice only."
  ]
 }
