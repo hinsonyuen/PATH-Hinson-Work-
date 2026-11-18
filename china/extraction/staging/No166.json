@@ -1,0 +1,39 @@
+{
+ "issue": 166,
+ "year": 1910,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1910_Q2_No166.txt",
+ "processed_at": "2026-11-18T20:45:53Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12619,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 319, Kowloon III. Imports, 1910 Total column",
+   "note": "OCR reads '8,420 12,034 12,619 ... ... 12,619'."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2070,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 319, Kowloon III. Imports, 1910 Total column",
+   "note": "OCR reads '4,209 4,650 2,070 ... ... 2,070'. Confirmed by the 1910 comparison column of No. 170."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre row (file line 270) reads '... 330 320': read with No. 170 these are 1908 and 1909, and there was no Pakhoi saltpetre import in 1910 Q2. Inferred from column positions, check the scan.",
+  "Other keyword hits (staff lists) are not arms."
+ ]
+}

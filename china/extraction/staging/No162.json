@@ -29,12 +29,24 @@
    "entry": "Trade",
    "source": "file line 310, Kowloon III. Imports, 1909 Total column",
    "note": "OCR reads '2,930 4,209 4,650 ... ... 4,650'. Confirmed by the 1909 comparison column of No. 166."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 320,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1910_Q2_No166.txt line 270 and Customs_Gazette_1911_Q2_No170.txt line 277, Pakhoi imports table, 1909 comparison column",
+   "note": "Taken from the comparison columns of Nos. 166 and 170. No. 166 reads '... 330 320' (1907 to 1910, one column lost) and No. 170 reads '33o 32o ... ..' (1908 to 1911); together they give 330 for 1908 and 320 for 1909, none in 1907, 1910 or 1911. Column assignment inferred, check against scan."
   }
  ],
  "exports": [],
  "issue_notes": [
   "Tientsin Native Customs II. Exports saltpetre row (file line 36) reads '153 ... 45': 153 is 1906; the 45 piculs may belong to 1908 Q2 or 1909 Q2 and is not entered. Check the scan.",
-  "Pakhoi saltpetre imports: the No. 166 comparison row reads '... 330 320' for 1907 to 1910 with one column lost in OCR, so the 1909 Q2 figure cannot be assigned (it is either 330 or nil). Check the scan.",
-  "Other keyword hits are not arms."
+  "Other keyword hits are not arms.",
+  "Pakhoi saltpetre import backfilled from the comparison columns of Nos. 166 and 170."
  ]
 }
