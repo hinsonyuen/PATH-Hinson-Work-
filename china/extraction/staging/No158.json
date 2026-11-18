@@ -1,0 +1,39 @@
+{
+ "issue": 158,
+ "year": 1908,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1908_Q2_No158.txt",
+ "processed_at": "2026-11-18T12:46:01Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 8420,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1909_Q2_No162.txt line 310, Kowloon III. Imports, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 162 ('Salt tre ... 10,300 8,420 12,034'); the row is not legible in the No. 158 OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4209,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1909_Q2_No162.txt line 310, Kowloon III. Imports, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 162 ('Sulphur ... 2,930 4,209 4,650'); the row is not legible in the No. 158 OCR."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No saltpetre or sulphur keyword hits in this issue's own OCR; Kowloon figures come from No. 162.",
+  "Tientsin Native Customs: no saltpetre row in this issue's OCR. The No. 162 row reads '153 ... 45', where 45 piculs may belong to 1908 Q2 or 1909 Q2; not entered here, check the scan."
+ ]
+}
