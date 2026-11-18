@@ -1,0 +1,63 @@
+{
+ "issue": 169,
+ "year": 1911,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1911_Q1_No169.txt",
+ "processed_at": "2026-11-18T23:45:52Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 17830,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 305, Kowloon III. Imports, 1911 Total column",
+   "note": "OCR reads '12,225 6,815 17,830 ... ... 17,830'. Confirmed by the 1911 comparison column of No. 173."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3580,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 305, Kowloon III. Imports, 1911 Total column",
+   "note": "OCR reads '4,018 4,68o 3,580 ... ... 3,580'. Confirmed by the 1911 comparison column of No. 173."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 330,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 266, Pakhoi imports table, 1911 column",
+   "note": "OCR reads 'Saltpetre ... i60 530 320 33o' for 1908 to 1911. Confirmed by No. 173."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Wenchow",
+   "count": 1000,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 176, Wenchow imports table, 1911 column",
+   "note": "OCR reads 'Saltpetre ... 1,000' with the earlier columns blank; No. 173 ('... ... 1,000 ...' for 1909 to 1912) confirms the figure belongs to 1911."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "'Soda, Nitrate of' (138 piculs) appears in one import list and is not entered (not saltpetre proper).",
+  "Other keyword hits are not arms."
+ ]
+}
