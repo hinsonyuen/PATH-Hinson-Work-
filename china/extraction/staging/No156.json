@@ -29,11 +29,24 @@
    "entry": "Trade",
    "source": "file line 303, Kowloon III. Imports, 1907 Total column",
    "note": "OCR reads 'S lh r ... 4,41I0- 408 3,o 979 ... ... 1979'. Confirmed as 3,979 by the 1907 comparison column of No. 164."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 330,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1910_Q4_No168.txt line 269, Pakhoi imports table, 1907 comparison column",
+   "note": "Taken from the comparison column of No. 168 ('Saltpetre ... 330 320 65o 320' for 1907 to 1910); the Pakhoi table in this issue's own OCR shows no saltpetre row."
   }
  ],
  "exports": [],
  "issue_notes": [
   "Tientsin Native Customs II. Exports saltpetre row (file line 34) shows 5,712 for 1904 and 421 for 1906 and blanks for 1905 and 1907: no saltpetre export in 1907 Q4.",
-  "Chinwangtao re-exports table lists 'Stores, Military, Foreign' Hk.Tls 73,615, but comparing Nos. 152, 156 and 160 shows the figure sits in the 1905 column, so it is entered under 1905 Q4 (No. 148), not here."
+  "Chinwangtao re-exports table lists 'Stores, Military, Foreign' Hk.Tls 73,615, but comparing Nos. 152, 156 and 160 shows the figure sits in the 1905 column, so it is entered under 1905 Q4 (No. 148), not here.",
+  "Pakhoi saltpetre import backfilled from the comparison column of No. 168."
  ]
 }
