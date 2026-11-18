@@ -1,0 +1,40 @@
+{
+ "issue": 162,
+ "year": 1909,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1909_Q2_No162.txt",
+ "processed_at": "2026-11-18T16:46:13Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12034,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 310, Kowloon III. Imports, 1909 Total column",
+   "note": "OCR reads 'Salt tre ... 10,300 8,420 12,034 ... ... 12,034'. Confirmed by the 1909 comparison column of No. 166."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4650,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 310, Kowloon III. Imports, 1909 Total column",
+   "note": "OCR reads '2,930 4,209 4,650 ... ... 4,650'. Confirmed by the 1909 comparison column of No. 166."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Tientsin Native Customs II. Exports saltpetre row (file line 36) reads '153 ... 45': 153 is 1906; the 45 piculs may belong to 1908 Q2 or 1909 Q2 and is not entered. Check the scan.",
+  "Pakhoi saltpetre imports: the No. 166 comparison row reads '... 330 320' for 1907 to 1910 with one column lost in OCR, so the 1909 Q2 figure cannot be assigned (it is either 330 or nil). Check the scan.",
+  "Other keyword hits are not arms."
+ ]
+}
