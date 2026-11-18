@@ -11,16 +11,17 @@
    "raw_material": true,
    "partner": null,
    "port": "Kowloon",
-   "count": 2850,
+   "count": 2810,
    "unit": "piculs",
    "value_hktls": null,
    "entry": "Trade",
    "source": "file line 286, Kowloon III. Imports, 1904 Total column",
-   "note": "First station 2,810; total column OCR reads '24850', taken as 2,850 (a second station of 40 is not legible). Comparison columns: 1902 = 4,042 (matches No. 135); 1903 = 2,956. Check against the scan."
+   "note": "Station column reads 2,810 and the total column OCR reads '24850'. The 1904 comparison column of No. 151 reads '21,8io' (2,810), so 2,810 is entered; the scan should confirm whether the total is 2,810 or 2,850. Comparison columns: 1902 = 4,042 (matches No. 135); 1903 = 2,956."
   }
  ],
  "exports": [],
  "issue_notes": [
-  "No. 143 (1904 Q3): Kowloon sulphur only; the Kowloon saltpetre row was not found in the OCR. The Tientsin Native Customs export table lists saltpetre with a 1903 figure (4,289) but none for 1904. Duty-free rows are rice only."
+  "No. 143 (1904 Q3): Kowloon sulphur only; the Kowloon saltpetre row was not found in the OCR. The Tientsin Native Customs export table lists saltpetre with a 1903 figure (4,289) but none for 1904. Duty-free rows are rice only.",
+  "No. 143: Kowloon sulphur changed from 2,850 to 2,810 after comparison with No. 151. No. 151 also gives Kowloon saltpetre for 1904 Q3 as '4,698' with the leading digit lost (probably 14,698); not entered."
  ]
 }

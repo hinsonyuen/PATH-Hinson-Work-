@@ -1,0 +1,38 @@
+{
+ "issue": 147,
+ "year": 1905,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1905_Q3_No147.txt",
+ "processed_at": "2026-11-18T01:46:20Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1906_Q3_No151.txt line 278, Kowloon III. Imports, 1905 comparison column",
+   "note": "Quantity incomplete. The row is not in the No. 147 OCR; the 1905 comparison column of No. 151 reads '12,42' (about 12,420 piculs, last digit lost). Take from the scan."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": null,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1906_Q3_No151.txt line 278, Kowloon III. Imports, 1905 comparison column",
+   "note": "Quantity incomplete. The row is not in the No. 147 OCR; the 1905 comparison column of No. 151 reads ',6to' (ends in 610, leading digit lost). Take from the scan."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No. 147 (1905 Q3): no arms rows legible in this issue. Kowloon saltpetre and sulphur are entered without quantities because only partial figures survive in the comparison columns of No. 151. The Tientsin Native Customs table in No. 151 shows no saltpetre export for 1905 Q3. Duty-free rows are rice only."
+ ]
+}
