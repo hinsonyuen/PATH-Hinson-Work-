@@ -29,11 +29,24 @@
    "entry": "Trade",
    "source": "file line 306, Kowloon III. Imports, 1908 Total column",
    "note": "OCR reads 'Solhur ... 3,400 3,173 3,507 ... ... 3,507'. Confirmed by the 1908 comparison column of No. 163."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 333,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1910_Q3_No167.txt line 269, Pakhoi imports table, 1908 comparison column",
+   "note": "Taken from the comparison column of No. 167 ('Saltpetre ... 330 333 320 65o' for 1907 to 1910); the Pakhoi table in this issue's own OCR shows no saltpetre row."
   }
  ],
  "exports": [],
  "issue_notes": [
   "Tientsin Native Customs II. Exports saltpetre row (file line 35) shows 881 for 1906 and blanks for 1907 and 1908: no saltpetre export in 1908 Q3.",
-  "Other keyword hits (grand totals, lighthouse notice, duty-free rice) are not arms."
+  "Other keyword hits (grand totals, lighthouse notice, duty-free rice) are not arms.",
+  "Pakhoi saltpetre import backfilled from the comparison column of No. 167."
  ]
 }
