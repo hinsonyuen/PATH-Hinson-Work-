@@ -1,0 +1,39 @@
+{
+ "issue": 159,
+ "year": 1908,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1908_Q3_No159.txt",
+ "processed_at": "2026-11-18T13:46:03Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 11701,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 306, Kowloon III. Imports, 1908 Total column",
+   "note": "OCR reads '16,3oo 13,o85 11,701 ... ... 11,701'. Confirmed by the 1908 comparison column of No. 163."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3507,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 306, Kowloon III. Imports, 1908 Total column",
+   "note": "OCR reads 'Solhur ... 3,400 3,173 3,507 ... ... 3,507'. Confirmed by the 1908 comparison column of No. 163."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Tientsin Native Customs II. Exports saltpetre row (file line 35) shows 881 for 1906 and blanks for 1907 and 1908: no saltpetre export in 1908 Q3.",
+  "Other keyword hits (grand totals, lighthouse notice, duty-free rice) are not arms."
+ ]
+}
