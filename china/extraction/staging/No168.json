@@ -1,0 +1,50 @@
+{
+ "issue": 168,
+ "year": 1910,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1910_Q4_No168.txt",
+ "processed_at": "2026-11-18T22:45:48Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12422,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 318, Kowloon III. Imports, 1910 Total column",
+   "note": "OCR reads '12,890 14,160 11,739 683 ... 12,422' (station columns 11,739 and 683)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3760,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 318, Kowloon III. Imports, 1910 Total column",
+   "note": "OCR reads '4,470 4,060 3,61o 150 ... 3,760' (station columns 3,610 and 150)."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 320,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 269, Pakhoi imports table, 1910 column",
+   "note": "OCR reads 'Saltpetre ... 330 320 65o 320' for 1907 to 1910. Confirmed by the 1910 comparison column of No. 172."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "No other arms-related entries found in this issue."
+ ]
+}
