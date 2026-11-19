@@ -1,0 +1,50 @@
+{
+ "issue": 172,
+ "year": 1911,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1911_Q4_No172.txt",
+ "processed_at": "2026-11-19T02:46:06Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 14731,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1912_Q4_No176.txt line 334, Kowloon III. Imports, 1911 comparison column",
+   "note": "Taken from the comparison column of No. 176 ('Salt petre ... 12,422 14,731 13,122'); the Kowloon rows are not legible in the No. 172 OCR."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2160,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1912_Q4_No176.txt line 334, Kowloon III. Imports, 1911 comparison column",
+   "note": "Taken from the comparison column of No. 176 ('Sulphur ... 3,760 2,1i6o 3,330'); the Kowloon rows are not legible in the No. 172 OCR."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 168,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 282, Pakhoi imports table, 1911 column",
+   "note": "OCR reads 'Saltpetre ... 32o 65o 32o I68' for 1908 to 1911; the 1911 figure is read as 168. Check against scan."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "'Late French gun-boat' in the vessel register and other keyword hits are not arms."
+ ]
+}
