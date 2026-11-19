@@ -1,0 +1,51 @@
+{
+ "issue": 177,
+ "year": 1913,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1913_Q1_No177.txt",
+ "processed_at": "2026-11-19T07:46:27Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 11325,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 317, Kowloon III. Imports, 1913 Total column",
+   "note": "OCR reads 'Saltp tre ... 17,830 12,519 11,325 ... ... 11,325'. No later issue to cross-check."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2660,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 317, Kowloon III. Imports, 1913 Total column",
+   "note": "OCR reads '3,580 1,500 2,660 ... ... 2,660'. No later issue to cross-check."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 685,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 274, Pakhoi imports table, 1913 column",
+   "note": "OCR reads 'Saltpetre ... 320 330 ... 685' for 1910 to 1913. No later issue to cross-check."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Wenchow saltpetre row (file line 182) shows 1,000 piculs under 1911 only: none in 1913 Q1.",
+  "No other arms-related entries found."
+ ]
+}
