@@ -1,0 +1,51 @@
+{
+ "issue": 174,
+ "year": 1912,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1912_Q2_No174.txt",
+ "processed_at": "2026-11-19T04:45:45Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 10747,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 332, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads '12,619 4,797 10,747 ... ... 10,747'. Confirmed by the 1912 comparison column of No. 178."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2180,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 332, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads '2,070 2,380 2,18o ... ... 2,180'. Confirmed by the 1912 comparison column of No. 178."
+  },
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 258,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 281, Pakhoi imports table, 1912 column",
+   "note": "OCR reads 'Salt etre ... 320 ... 258' for 1909 to 1912; No. 178 reads '... ... 2 58 ...' for 1910 to 1913, which places 258 piculs in 1912."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "'Soda, Nitrate of' rows in two import lists are not entered (not saltpetre proper).",
+  "No other arms-related entries found."
+ ]
+}
