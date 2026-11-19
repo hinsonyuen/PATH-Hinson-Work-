@@ -1,0 +1,39 @@
+{
+ "issue": 176,
+ "year": 1912,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1912_Q4_No176.txt",
+ "processed_at": "2026-11-19T06:46:03Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 13122,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 334, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads 'Salt petre ... 12,422 14,731 13,122 ... ... 13,122'."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3330,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 334, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads '3,760 2,1i6o 3,330 ... ... 3,330'."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "The Pakhoi saltpetre row is not legible in this issue. No. 180's Pakhoi row reads '320li 169 6 512' for 1910 to 1913, so the 1912 Q4 figure is either 6 piculs or nil; not entered. Check the scan.",
+  "Lighthouse notice and duty-free rice hits are not arms."
+ ]
+}
