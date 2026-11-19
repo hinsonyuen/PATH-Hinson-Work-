@@ -1,0 +1,39 @@
+{
+ "issue": 170,
+ "year": 1911,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1911_Q2_No170.txt",
+ "processed_at": "2026-11-19T00:46:12Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 4797,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 327, Kowloon III. Imports, 1911 Total column",
+   "note": "Row name garbled ('StTe1re'); OCR reads 'I,034 12,619 4,797 ... ... 4,797'. Confirmed by the 1911 comparison column of No. 174."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2380,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 327, Kowloon III. Imports, 1911 Total column",
+   "note": "OCR reads 'Sup ur ... 4,650 2,o7o 2,380 ... ... 2,38o'. Confirmed by the 1911 comparison column of No. 174."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre row (file line 277) reads '33o 32o ... ..' for 1908 to 1911: no Pakhoi saltpetre import in 1911 Q2.",
+  "Harbin 'Soda, Nitrate of' is not entered. Other keyword hits are not arms."
+ ]
+}
