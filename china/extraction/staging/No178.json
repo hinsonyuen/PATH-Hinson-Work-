@@ -1,0 +1,39 @@
+{
+ "issue": 178,
+ "year": 1913,
+ "quarter": "Q2",
+ "file": "Customs_Gazette_1913_Q2_No178.txt",
+ "processed_at": "2026-11-19T08:46:03Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 11025,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 335, Kowloon III. Imports, 1913 Total column",
+   "note": "OCR reads '4,797 10,747 11,025 ... ... 11,025'. No later issue to cross-check."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 3945,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 335, Kowloon III. Imports, 1913 Total column",
+   "note": "OCR reads '2,380 2,180 3,945 ... 3 45'. No later issue to cross-check."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre row (file line 283) reads '... ... 2 58 ...' for 1910 to 1913: 258 piculs in 1912 and none in 1913 Q2.",
+  "No other arms-related entries found."
+ ]
+}
