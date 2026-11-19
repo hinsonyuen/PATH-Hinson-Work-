@@ -1,0 +1,39 @@
+{
+ "issue": 175,
+ "year": 1912,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1912_Q3_No175.txt",
+ "processed_at": "2026-11-19T05:45:53Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 8735,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 324, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads '15,462 5,440 8,735 ... .*. 8,735'. Confirmed by the 1912 comparison column of No. 179 ('8,7j5')."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 2160,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 324, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads 'Sup ur ... 4,788 8oo 2,160 ... ... 2,1i6o'."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "The Pakhoi imports table in this issue shows no saltpetre row. No. 179's Pakhoi row reads '650 4422' for 1910 to 1913, which cannot be split reliably; no Pakhoi figure is entered for 1912 Q3. Check the scan.",
+  "'Gun' tea grade and other keyword hits are not arms."
+ ]
+}
