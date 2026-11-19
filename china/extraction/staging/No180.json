@@ -1,0 +1,27 @@
+{
+ "issue": 180,
+ "year": 1913,
+ "quarter": "Q4",
+ "file": "Customs_Gazette_1913_Q4_No180.txt",
+ "processed_at": "2026-11-19T10:46:34Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Pakhoi",
+   "count": 512,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 286, Pakhoi imports table, 1913 column",
+   "note": "OCR reads 'Saltpetre ... 320li 169 6 512' for 1910 to 1913; the last figure is read as 512 for 1913. No later issue to cross-check, check against scan."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Kowloon III. Imports (file lines 334 to 335) is printed in a new grouped layout this quarter and the OCR of the page is incomplete; no saltpetre or sulphur row is legible, so no Kowloon figures are entered for 1913 Q4. Take from the scan.",
+  "Duty-free notes and other keyword hits are not arms."
+ ]
+}
