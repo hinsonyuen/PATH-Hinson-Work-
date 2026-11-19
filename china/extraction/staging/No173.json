@@ -1,0 +1,40 @@
+{
+ "issue": 173,
+ "year": 1912,
+ "quarter": "Q1",
+ "file": "Customs_Gazette_1912_Q1_No173.txt",
+ "processed_at": "2026-11-19T03:45:46Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 12519,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 319, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads '6,815 17,830 12,519 .-- *** 12,519'."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1500,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 319, Kowloon III. Imports, 1912 Total column",
+   "note": "OCR reads '4,68o 3,58o 1,500 ... ... 1,500'. Confirmed by the 1912 comparison column of No. 177."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre row (file line 274) reads '530 320 330' for 1909 to 1911 with 1912 blank, and No. 177 reads '320 330 ... 685' for 1910 to 1913: no Pakhoi saltpetre import in 1912 Q1.",
+  "Wenchow saltpetre row (file line 182) shows 1,000 piculs under 1911 only: none in 1912 Q1.",
+  "No other arms-related entries found."
+ ]
+}
