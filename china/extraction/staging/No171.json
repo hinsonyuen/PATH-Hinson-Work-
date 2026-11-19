@@ -1,0 +1,39 @@
+{
+ "issue": 171,
+ "year": 1911,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1911_Q3_No171.txt",
+ "processed_at": "2026-11-19T01:46:00Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 5440,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 317, Kowloon III. Imports, 1911 Total column",
+   "note": "Row name lost in OCR; OCR reads '12,430 15,462 5,440 . . . .5,44'. Confirmed by the 1911 comparison column of No. 175 (5,440)."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 800,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "Customs_Gazette_1912_Q3_No175.txt line 324, Kowloon III. Imports, 1911 comparison column",
+   "note": "Taken from the comparison column of No. 175 ('Sup ur ... 4,788 8oo 2,160'); the sulphur row is not legible in the No. 171 OCR. A sharp drop from 4,788 in 1910 Q3, check against scan."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre row (file line 279) reads '333 320 6o' for 1908 to 1911 (650 for 1910 garbled) with the 1911 column lost; the No. 175 Pakhoi table has no saltpetre row, so no 1911 Q3 figure is entered. Check the scan.",
+  "Other keyword hits are not arms."
+ ]
+}
