@@ -1,0 +1,39 @@
+{
+ "issue": 179,
+ "year": 1913,
+ "quarter": "Q3",
+ "file": "Customs_Gazette_1913_Q3_No179.txt",
+ "processed_at": "2026-11-19T09:46:11Z",
+ "processed_by": "Task B",
+ "imports": [
+  {
+   "type": "Saltpetre",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 5973,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 320, Kowloon III. Imports, 1913 Total column",
+   "note": "OCR reads 'Baltpetre ... 5,440 8,7j5 5,973 *...* 5>973'. No later issue to cross-check."
+  },
+  {
+   "type": "Sulphur",
+   "raw_material": true,
+   "partner": null,
+   "port": "Kowloon",
+   "count": 1720,
+   "unit": "piculs",
+   "value_hktls": null,
+   "entry": "Trade",
+   "source": "file line 320, Kowloon III. Imports, 1913 Total column",
+   "note": "OCR reads 'Sulp ur ... 800 2,1i60 1,72o ... 1,720'. The 800 confirms the 1911 Q3 figure entered from this issue's predecessor. No later issue to cross-check."
+  }
+ ],
+ "exports": [],
+ "issue_notes": [
+  "Pakhoi saltpetre row (file line 281) reads '650 4422.' for 1910 to 1913; the figures after 650 (1910) cannot be split reliably, so no 1913 Q3 Pakhoi figure is entered. Check the scan.",
+  "Kiangnan Arsenal Dock in the vessel register is a shipbuilding entry, not an arms trade item."
+ ]
+}
