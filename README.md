@@ -16,4 +16,4 @@ Data entry for the Path project, a dashboard of the arms trade between countries
 - `extraction/progress.log`: one line per processed issue.
 - `sources/`: lists of Chinese customs sources and scans.
 
-The raw OCR text of the Gazette (Gale) and the scanned PDFs are not included.
+The raw OCR text of the Gazette (Gale) and the scanned PDFs are in `raw data/` (the PDFs via Git LFS).
